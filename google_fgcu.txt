@@ -1,0 +1,1430 @@
+<!doctype html><!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en-US"><![endif]--><!--[if IE 7]><html class="no-js lt-ie9 lt-ie8" lang="en-US"><![endif]--><!--[if IE 8]><html class="no-js lt-ie9" lang="en-US"><![endif]--><!--[if gt IE 8]><!--><html class="no-js" lang="en-US"><!--[endif]-->
+   <head>
+      <title>Florida Gulf Coast University | Home</title>
+      <meta xmlns:ouc="http://omniupdate.com/XSL/Variables" name="Description" content="FGCU is a top ranked public university in Southwest Florida that offers undergraduate and graduate degree programs. FGCU is accredited by SACS and provides big opportunities with a small university feel. FGCU students can graduate in four years with degrees including business, engineering, arts, sciences, health, nursing, education and more.">
+      <meta xmlns:ouc="http://omniupdate.com/XSL/Variables" name="keywords" content="fgcu, florida gulf coast university, florida schools, southwest florida, florida universities, florida colleges, fort myers, research, academics, admissions, lee county, graduate degrees, undergraduate degrees, division i, athletics, eagles, graduate college in four years, top ranked university, small class sizes, big opportunities, soar in 4, nursing, engineering, business, health, sciences, education, honors college">
+      <meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="apple-touch-icon" href="https://fgcucdn.fgcu.edu/_resources/images/apple-touch-icon.png">
+<link rel="icon" href="https://fgcucdn.fgcu.edu/favicon.ico" type="image/x-icon">
+<link rel="stylesheet" href="https://fgcucdn.fgcu.edu/_resources/css/main-alt-2.css"><script src="https://fgcucdn.fgcu.edu/_resources/js/modernizr-2.8.3.min.js"></script><script src="https://fgcucdn.fgcu.edu/_resources/js/jquery-1.11.2.min.js"></script><script src="https://fgcucdn.fgcu.edu/_resources/js/plugins.js"></script><script src="https://fgcucdn.fgcu.edu/_resources/js/parallax.min.js"></script><script src="https://fgcucdn.fgcu.edu/_resources/js/jquery.fancybox.min.js"></script><script src="https://fgcucdn.fgcu.edu/_resources/js/slick.min.js"></script><script src="https://fgcucdn.fgcu.edu/_resources/js/jquery.matchHeight-min.js"></script><script src="https://fgcucdn.fgcu.edu/_resources/js/jquery.waypoints.min.js"></script><script src="https://fgcucdn.fgcu.edu/_resources/js/bootstrap-2.3.1.min.js"></script><script src="https://fgcucdn.fgcu.edu/_resources/js/bootstrap-select.min.js"></script><script src="https://fgcucdn.fgcu.edu/_resources/js/main-alt-7.js"></script><script src="https://fgcucdn.fgcu.edu/_resources/js/navigation.js"></script><script src="https://fgcucdn.fgcu.edu/_resources/js/direct-edit.js"></script><link rel="stylesheet" type="text/css" href="https://fgcucdn.fgcu.edu/_resources/css/main-print.css" media="print"><script>try{Typekit.load({ async: true });}catch(e){}</script><script type="text/javascript" src="//script.crazyegg.com/pages/scripts/0041/0193.js" async></script><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+			new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+			j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+			'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+			})(window,document,'script','dataLayer','GTM-NLN2R7T');</script>
+      <link href="https://fgcucdn.fgcu.edu/_resources/ldp/galleries/bx-slider/jquery.bxslider.css" rel="stylesheet">
+      <style>
+				@media screen and (min-width: 1000px){
+					.page-banner .desktop-banner {
+						min-height:  !important;
+					}
+				}
+
+
+					
+			</style>
+      <style>
+			#ou-video-container {
+			position: absolute;
+			}
+			
+			@media only screen and (max-width: 999px) and (min-width: 0px) {
+				.ou-video-hide-mobile {display:block; z-index:-1;}
+				#vid-overlay {text-align:center;left:0px;bottom:0px;top:35%;
+				/*text-shadow: 0 0 40px #000;*/
+				font-family: 'AvenirNextLTW01-Medium';	
+				}
+			} 
+
+			@media screen and (min-width: 1000px) {
+				#vid-overlay {z-index:101;text-align:center;left:0px;bottom:0px;top:35%;
+				/*text-shadow: 0 0 40px #000;*/
+				font-family: 'AvenirNextLTW01-Medium';
+				}
+			}
+		</style>
+      		<!-- FGCU Schema Code Start -->
+      <script xmlns:ouc="http://omniupdate.com/XSL/Variables" type="application/ld+json">
+{
+"@type": "CollegeOrUniversity",
+"name": "Florida Gulf Coast University",
+"alternatename" : "FGCU",
+"url": "https://fgcu.edu",
+"logo":
+"https://fgcucdn.fgcu.edu/advancement/universitymarketing/resour
+ces/images/FGCULogo-stacked-thumb.jpg",
+"foundingDate": "1997",
+"address": {
+"@type": "PostalAddress",
+"streetAddress": "10501 FGCU Blvd S",
+"addressLocality": "Fort Myers",
+"addressRegion": "FL",
+"postalCode": "33965-6565",
+"addressCountry": "USA"},
+"contactPoint": {
+"@type": "ContactPoint",
+"contactType": "customer support",
+"telephone": "800-590-3428",
+"email": "admissions@fgcu.edu"},
+"sameAs": [
+"https://www.facebook.com/FloridaGulfCoastUniversity",
+"https://www.instagram.com/fgcu/",
+"https://twitter.com/fgcu",
+"https://www.youtube.com/user/fgcu",
+"https://www.linkedin.com/school/florida-gulf-coast-university/"
+]}
+</script>
+      <!-- FGCU Schema Code End -->
+      	
+      <style xmlns:ouc="http://omniupdate.com/XSL/Variables">
+				#vid-overlay{
+		z-index: 999; text-align: center;  top: 45%; left: 0; bottom: initial;
+		}
+		
+.gradientpromo p {
+    min-height: 45px;
+}
+
+.gradientpromo .container-flex .col-sm {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+section.text-container.blue .container-flex {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+		
+		p.line-break {
+			margin-top: 0px;
+			margin-bottom: 0px;
+		}
+		
+		
+		section.news-listing h2{color:#fff !important;} section.news-listing {  background-color: #004785 !important;}
+	
+		
+<!-- BEGIN COVID Banner -->
+.text-container.overlay-texture.rock {
+    background-image: none !important;
+}
+			
+.text-container.overlay-texture.green a.button.outline.small.flat.white:hover {
+    background-color: #484848;
+}
+.text-container.overlay-texture.green a.button.outline.small.flat.white {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.text-container.videopanel.overlay-texture.green {
+    padding-top: 8px;
+    padding-bottom: 8px;
+	margin-bottom: 0px;
+}
+			
+@media screen and (max-width: 1000px){
+.overlay-texture.green a.button.outline.small.flat.white {
+	margin-top: 6px;
+	}
+}
+<!-- END COVID Banner -->			
+
+.link-arrow.medium {
+    font-family: 'AvenirNextLTW01-Regular';
+}
+			
+.link-arrow.medium:hover {
+    font-family: 'AvenirNextLTW01-Medium';
+}
+			
+.link-arrow.white .icon-cta-arrow-right {
+    margin-left: 5px;
+}
+		
+
+		
+/*BEGIN TEMP FIX*/
+@media (min-width: 1000px){
+	section.video-box.horizontalvideo .videopanel {
+		max-height: 337.5px !important;
+	}
+}
+/*END TEMP FIX*/
+		
+</style>
+      		
+      		
+      
+      		
+      	<script type="text/javascript">
+					var page_url="https://www.fgcu.edu/index.aspx";
+				</script></head>
+   <body class="home">
+      	
+      	<a class="skip-link" href="#page-title">Skip to the content</a>
+      <div id="alert-notification">
+   <div class="container">
+      <div class="alert-message" style="z-index: inherit;">
+         <div class="alert-title">
+            <p class="title">FGCU Emergency Management Advisory</p>
+         </div>
+         <p class="alert-description text-caption">Please visit the <a xmlns:ouc="http://omniupdate.com/XSL/Variables" href="/hurricaneian/">fgcu.edu/hurricaneian</a> website for <span xmlns:ouc="http://omniupdate.com/XSL/Variables">details about FGCU's response to Hurricane Ian.</span></p>
+      </div><a aria-label="FGCU Emergency Management Advisory" href="/hurricaneian" class="button outline white small" style="font-size: small;">Learn More</a></div><button class="close-alert">Close Notification</button></div><div id="policy-notification" style="display:none; position: fixed;bottom: 0;background-color: #fcfeff;left: 0;right: 0;z-index: 2000;border-top: 1px solid #9E9E9E; ">
+   <div class="container" style=" display: flex; align-items: center;max-width: 1280px; margin: 0 auto; padding: 0 16px;  font-family: 'AvenirNextLTW01-Regular', 'Helvetica Neue',Helvetica,Arial,sans-serif; margin-left: 10%;">
+      <div class="policy-message col-sm-16" style="width: 66.66666667%;">
+         <div class="policy-title">
+            <p class="title h5" style="font-size: 1.2rem; font-family: 'AvenirNextLTW01-Medium', 'Helvetica Neue',Helvetica,Arial,sans-serif;">FGCU Privacy Policy</p>
+         </div>
+         <p class="policy-description" style="font-size: 0.8rem;">This website stores cookies on your computer to improve your browsing experience.
+            The university does not collect personal information as you browse. Learn about our
+            <a href="/generalcounsel/resources">Privacy</a> and <a href="/gdpr">GDPR</a> statements.
+         </p>
+      </div>
+      <div class="policy-accept col-sm-8 " style="width: 33.33333333%;"><button aria-label="Accept Privacy Policy" class="close-policy button small green solid flat " style="cursor: pointer; margin-left: 15px; background-color: #5b8200; color: #fff; font-size: .9rem; padding: 10px 20px; box-shadow: 0 2px 4px 0 rgba(0,0,0,.16); text-transform: uppercase; font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif">Accept</button></div>
+   </div><button aria-label="Close Privacy Policy" class="close-policy" style="display: block;      text-indent: 100%;      white-space: nowrap;      overflow: hidden;      border: 0;      font: 0/0 a;      text-shadow: none;      color: transparent;      background-color: transparent;      position: absolute;      top: 15px;      right: 20px;      width: 25px;      height: 25px;      background: center center no-repeat url(https://fgcucdn.fgcu.edu/_resources/images/close-icon.png);      background-size: 100% auto;      -webkit-transition: 0.3s;      transition: 0.3s;      filter: invert(50%);">Close</button></div><fgcuheader id="masthead" role="banner" class="redesign-fgcuheader">
+   <div class="redesign-desktop">
+      <div class="top-nav col-sm-24">
+         <div class="top-nav-container"><a class="logo" href="/"><img xmlns:ouc="http://omniupdate.com/XSL/Variables" alt="FGCU Logo" src="/_resources/images/fgculogo-oneline-globalnav-exclusive-white.svg"></a><div class="header-nav">
+               <div class="nav-main">
+                  <div id="quick-links-dekstop" class="quick-links">
+                     <ul>
+                        <li class=""><a title="Apply Now" href="/admissionsandaid/">Apply</a></li>
+                        <li class="notranslate"><a title="Canvas" href="/canvas/">Canvas</a></li>
+                        <li class=""><a title="FGCU Directory" href="/directory">Directory</a></li>
+                        <li class=""><a title="FGCU Email" href="/email">Email</a></li>
+                        <li class="notranslate"><a title="GULFLINE" href="/gulfline/">Gulfline</a></li>
+                        <li class=""><a title="My FGCU" href="https://my.fgcu.edu/">MyFGCU</a></li>
+                     </ul>
+                  </div>
+                  <div class="search-container"><button title="search" aria-label="search-toggle" aria-expanded="false" class="main-search-toggle"><span class="icon-search" style=""></span></button><div class="search-form-container" role="search" aria-hidden="true">
+                        <form action="/search-results/index.aspx"><input aria-label="Search FGCU" placeholder="Search FGCU" type="search" name="q" class="site-search" autofocus><input type="submit" title="Submit" value="Submit"></form>
+                     </div>
+                  </div>
+                  <div class="nav-divider"></div>
+                  <div class="language-container notranslate"><button title="language" aria-label="language-toggle" aria-expanded="false" class="main-language-toggle"><span class="icon-online"></span><div class="nav-arrow"><span class="icon-left-dir"></span></div></button><div class="lang-dropdown " x-placement="bottom-start" style="">
+                        <ul>
+                           <li class="dropdown-item">Afrikaans</li>
+                           <li class="dropdown-item">Albanian</li>
+                           <li class="dropdown-item">Amharic</li>
+                           <li class="dropdown-item">Arabic</li>
+                           <li class="dropdown-item">Armenian</li>
+                           <li class="dropdown-item">Azerbaijani</li>
+                           <li class="dropdown-item">Basque</li>
+                           <li class="dropdown-item">Belarusian</li>
+                           <li class="dropdown-item">Bengali</li>
+                           <li class="dropdown-item">Bosnian</li>
+                           <li class="dropdown-item">Bulgarian</li>
+                           <li class="dropdown-item">Catalan</li>
+                           <li class="dropdown-item">Cebuano</li>
+                           <li class="dropdown-item">Chichewa</li>
+                           <li class="dropdown-item">Chinese (Simplified)</li>
+                           <li class="dropdown-item">Chinese (Traditional)</li>
+                           <li class="dropdown-item">Corsican</li>
+                           <li class="dropdown-item">Croatian</li>
+                           <li class="dropdown-item">Czech</li>
+                           <li class="dropdown-item">Danish</li>
+                           <li class="dropdown-item">Dutch</li>
+                           <li class="dropdown-item">Esperanto</li>
+                           <li class="dropdown-item">Estonian</li>
+                           <li class="dropdown-item">Filipino</li>
+                           <li class="dropdown-item">Finnish</li>
+                           <li class="dropdown-item">French</li>
+                           <li class="dropdown-item">Frisian</li>
+                           <li class="dropdown-item">Galician</li>
+                           <li class="dropdown-item">Georgian</li>
+                           <li class="dropdown-item">German</li>
+                           <li class="dropdown-item">Greek</li>
+                           <li class="dropdown-item">Gujarati</li>
+                           <li class="dropdown-item">Haitian Creole</li>
+                           <li class="dropdown-item">Hausa</li>
+                           <li class="dropdown-item">Hawaiian</li>
+                           <li class="dropdown-item">Hebrew</li>
+                           <li class="dropdown-item">Hindi</li>
+                           <li class="dropdown-item">Hmong</li>
+                           <li class="dropdown-item">Hungarian</li>
+                           <li class="dropdown-item">Icelandic</li>
+                           <li class="dropdown-item">Igbo</li>
+                           <li class="dropdown-item">Indonesian</li>
+                           <li class="dropdown-item">Irish</li>
+                           <li class="dropdown-item">Italian</li>
+                           <li class="dropdown-item">Japanese</li>
+                           <li class="dropdown-item">Javanese</li>
+                           <li class="dropdown-item">Kannada</li>
+                           <li class="dropdown-item">Kazakh</li>
+                           <li class="dropdown-item">Khmer</li>
+                           <li class="dropdown-item">Kinyarwanda</li>
+                           <li class="dropdown-item">Korean</li>
+                           <li class="dropdown-item">Kurdish (Kurmanji)</li>
+                           <li class="dropdown-item">Kyrgyz</li>
+                           <li class="dropdown-item">Lao</li>
+                           <li class="dropdown-item">Latin</li>
+                           <li class="dropdown-item">Latvian</li>
+                           <li class="dropdown-item">Lithuanian</li>
+                           <li class="dropdown-item">Luxembourgish</li>
+                           <li class="dropdown-item">Macedonian</li>
+                           <li class="dropdown-item">Malagasy</li>
+                           <li class="dropdown-item">Malay</li>
+                           <li class="dropdown-item">Malayalam</li>
+                           <li class="dropdown-item">Maltese</li>
+                           <li class="dropdown-item">Maori</li>
+                           <li class="dropdown-item">Marathi</li>
+                           <li class="dropdown-item">Mongolian</li>
+                           <li class="dropdown-item">Myanmar (Burmese)</li>
+                           <li class="dropdown-item">Nepali</li>
+                           <li class="dropdown-item">Norwegian</li>
+                           <li class="dropdown-item">Odia (Oriya)</li>
+                           <li class="dropdown-item">Pashto</li>
+                           <li class="dropdown-item">Persian</li>
+                           <li class="dropdown-item">Polish</li>
+                           <li class="dropdown-item">Portuguese</li>
+                           <li class="dropdown-item">Punjabi</li>
+                           <li class="dropdown-item">Romanian</li>
+                           <li class="dropdown-item">Russian</li>
+                           <li class="dropdown-item">Samoan</li>
+                           <li class="dropdown-item">Scots Gaelic</li>
+                           <li class="dropdown-item">Serbian</li>
+                           <li class="dropdown-item">Sesotho</li>
+                           <li class="dropdown-item">Shona</li>
+                           <li class="dropdown-item">Sindhi</li>
+                           <li class="dropdown-item">Sinhala</li>
+                           <li class="dropdown-item">Slovak</li>
+                           <li class="dropdown-item">Slovenian</li>
+                           <li class="dropdown-item">Somali</li>
+                           <li class="dropdown-item">Spanish</li>
+                           <li class="dropdown-item">Sundanese</li>
+                           <li class="dropdown-item">Swahili</li>
+                           <li class="dropdown-item">Swedish</li>
+                           <li class="dropdown-item">Tajik</li>
+                           <li class="dropdown-item">Tamil</li>
+                           <li class="dropdown-item">Tatar</li>
+                           <li class="dropdown-item">Telugu</li>
+                           <li class="dropdown-item">Thai</li>
+                           <li class="dropdown-item">Turkish</li>
+                           <li class="dropdown-item">Turkmen</li>
+                           <li class="dropdown-item">Ukrainian</li>
+                           <li class="dropdown-item">Urdu</li>
+                           <li class="dropdown-item">Uyghur</li>
+                           <li class="dropdown-item">Uzbek</li>
+                           <li class="dropdown-item">Vietnamese</li>
+                           <li class="dropdown-item">Welsh</li>
+                           <li class="dropdown-item">Xhosa</li>
+                           <li class="dropdown-item">Yiddish</li>
+                           <li class="dropdown-item">Yoruba</li>
+                           <li class="dropdown-item">Zulu</li>
+                        </ul>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div>
+      <div class="bottom-nav col-sm-24">
+         <section class="row-alt">
+            <ul>
+               <li class="nav-items"><button aria-expanded="false" title="Toggle About Submenu" aria-label="Toggle About Submenu"><span class="nav-items">About</span></button><div class="sub-menu col-sm-24">
+                     <section class="container-flex row-alt">
+                        <div class="col-sm-6"><span class="menu-title">About</span><p>Discover what’s unique about our campus and how to visit. Meet our leadership team,
+                              and learn about our history, mission, values, accreditations, regulations and policies.</p><a href="/about" class="overview">Visit About<span class="icon-cta-arrow-right"></span></a></div>
+                        <div class="col-sm category-columns"><span>At a Glance</span><ul>
+                              <li><a aria-label="Accreditation" title="Accreditation" href="/about/accreditation">Accreditation</a></li>
+                              <li><a aria-label="Campus Map/Directions" title="Campus Map/Directions" href="/campusmap/">Campus Map/Directions</a></li>
+                              <li><a aria-label="Contact Us" title="Contact Us" href="/about/contactus">Contact Us</a></li>
+                              <li><a aria-label="Fast Facts" title="Fast Facts" href="/about/fastfacts">Fast Facts</a></li>
+                              <li><a aria-label="FGCU Jobs" title="FGCU Jobs" href="/hr/jobs-at-fgcu">FGCU Jobs</a></li>
+                              <li><a aria-label="Photo Galleries" title="Photo Galleries" href="/photogalleries/">Photo Galleries</a></li>
+                              <li><a aria-label="Visit FGCU" title="Visit FGCU" href="/admissionsandaid/visitus/schedulevisit">Visit FGCU</a></li>
+                           </ul>
+                        </div>
+                        <div class="col-sm category-columns"><span>Institution</span><ul>
+                              <li><a aria-label="Advancement/Foundation" title="Advancement/Foundation" href="/advancement/">Advancement / Foundation</a></li>
+                              <li><a aria-label="Faculty Senate" title="Faculty Senate" href="/facultysenate/">Faculty Senate</a></li>
+                              <li><a aria-label="EEO/EO/AA M/VET/Diversity/Title IX" title="EEO/EO/AA M/VET/Diversity/Title IX" href="/equity/">EEO/EO/AA M/VET/Diversity/Title IX</a></li>
+                              <li><a aria-label="General Counsel" title="General Counsel" href="/generalcounsel/">General Counsel</a></li>
+                              <li><a aria-label="Government Relations" title="Government Relations" href="/governmentrelations/">Government Relations</a></li>
+                              <li><a aria-label="Office of Compliance and Ethics" title="Office of Compliance and Ethics" href="/equity/ethics/">Office of Compliance and Ethics</a></li>
+                              <li><a aria-label="Support FGCU" title="Support FGCU" href="/advancement/waystogive/givenow">Support FGCU</a></li>
+                              <li><a aria-label="University Leadership" title="University Leadership" href="/about/leadership/">University Leadership</a></li>
+                           </ul>
+                        </div>
+                        <div class="col-sm category-columns"><span>Engagement</span><ul>
+                              <li><a aria-label="Civic Engagement" title="Civic Engagement" href="/thefgcueffect/civicengagement">Civic Engagement</a></li>
+                              <li><a aria-label="Eagle Advocacy" title="Eagle Advocacy" href="https://fgcueagleadvocacy.com/">Eagle Advocacy</a></li>
+                              <li><a aria-label="Environment &amp; Sustainability" title="Environment &amp; Sustainability" href="/thefgcueffect/environmentandsustainability">Environment &amp; Sustainability</a></li>
+                              <li><a aria-label="Expert Directory" title="Expert Directory" href="http://newsroom.fgcu.edu/experts/" target="_blank" rel="noopener">Expert Directory</a></li>
+                              <li><a aria-label="Speakers Bureau" title="Speakers Bureau" href="/thefgcueffect/speakersbureau">Speakers Bureau</a></li>
+                           </ul>
+                        </div>
+                     </section>
+                  </div>
+               </li>
+               <li class="nav-items"><button aria-expanded="false" title="Toggle Academics Submenu" aria-label="Toggle Academics Submenu"><span class="nav-items">Academics</span></button><div class="sub-menu col-sm-24">
+                     <section class="container-flex row-alt">
+                        <div class="col-sm-6"><span class="menu-title">Academics</span><p>Start your path to an undergraduate or graduate degree by exploring programs taught
+                              by world-class faculty. Find all the resources and support services to ensure your
+                              academic success.</p><a href="/academics" class="overview">Visit Academics<span class="icon-cta-arrow-right"></span></a></div>
+                        <div class="col-sm category-columns"><span>Getting Started</span><ul>
+                              <li><a aria-label="Visit FGCU Advising" title="Visit FGCU Advising" href="/academics/advising/">Academic Advising</a></li>
+                              <li><a aria-label="Visit FGCU Colleges and Schools" title="Visit FGCU Colleges and Schools" href="/academics/colleges">Colleges and Schools</a></li>
+                              <li><a aria-label="Continuing Education" title="Continuing Education" href="/academics/ced/">Continuing Education</a></li>
+                              <li><a xmlns:ouc="http://omniupdate.com/XSL/Variables" href="/complete/">FGCU Complete</a></li>
+                              <li><a aria-label="FGCU Online" title="FGCU Online" href="/online/">FGCU Online</a></li>
+                              <li><a aria-label="General Education" title="General Education" href="/academics/generaleducation">General Education</a></li>
+                              <li><a aria-label="Graduate Studies" title="Graduate Studies" href="/graduatestudies/">Graduate Studies</a></li>
+                              <li><a xmlns:ouc="http://omniupdate.com/XSL/Variables" href="/academics/internationalservices/">International Services</a></li>
+                              <li><a xmlns:ouc="http://omniupdate.com/XSL/Variables" href="/academics/internships/">Internships &amp; Co-op Programs</a></li>
+                              <li><a aria-label="Study Abroad" title="Study Abroad" href="/academics/studyabroad/">Study Abroad</a></li>
+                           </ul>
+                        </div>
+                        <div class="col-sm category-columns"><span>Academic Resources</span><ul>
+                              <li><a aria-label="Academic Calendar" title="Academic Calendar" href="/academics/academiccalendar/">Academic Calendar</a></li>
+                              <li><a aria-label="Academic Catalog" title="Academic Catalog" href="/catalog/">Academic Catalog</a></li>
+                              <li><a aria-label="Course Descriptions" title="Course Descriptions" href="https://fgcu-web02.fgcu.edu/CourseDescriptions/">Course Descriptions</a></li>
+                              <li><a aria-label="Course Listing/Schedule" title="Course Listing/Schedule" href="https://gulfline.fgcu.edu/pls/fgpo/szkschd.p_showform">Course Listing/Schedule</a></li>
+                              <li><a aria-label="FGCU Library" title="FGCU Library" href="http://library.fgcu.edu">Library</a></li>
+                              <li><a aria-label="Programs Guide" title="Programs Guide" href="/academics/programguide/">Programs Guide/List</a></li>
+                              <li><a aria-label="Records &amp; Registration" title="Records &amp; Registration" href="/recordsandregistration">Records &amp; Registration</a></li>
+                              <li><a aria-label="FGCU Research" title="FGCU Research" href="/academics/research/">Research &amp; Sponsored Programs</a></li>
+                              <li><a aria-label="Scholarly Innovation &amp; Student Research" title="Scholarly Innovation &amp; Student Research" href="/sisr/">Student Research/Learning</a></li>
+                              <li><a aria-label="Testing &amp; Assessment" title="Testing &amp; Assessment" href="/testing/">Testing &amp; Assessment</a></li>
+                              <li><a aria-label="The Writing Lab" title="The Writing Lab" href="/academics/caa/writinglab/">The Writing Lab</a></li>
+                           </ul>
+                        </div>
+                        <div class="col-sm category-columns"><span>Colleges &amp; Schools</span><ul>
+                              <li><a aria-label="College of Arts &amp; Sciences" title="College of Arts &amp; Sciences" href="/cas/">College of Arts &amp; Sciences</a></li>
+                              <li><a aria-label="College of Education" title="College of Education" href="/coe/">College of Education</a></li>
+                              <li><a aria-label="Honors College" title="Honors College" href="/honors/">Honors College</a></li>
+                              <li><a aria-label="Lutgert College of Business" title="Lutgert College of Business" href="/cob/">Lutgert College of Business</a></li>
+                              <li><a aria-label="Marieb College of Health &amp; Human Services" title="Marieb College of Health &amp; Human Services" href="/mariebcollege/">Marieb College of Health &amp; Human Services</a></li>
+                              <li><a aria-label="U.A. Whitaker College of Engineering" title="U.A. Whitaker College of Engineering" href="/eng/">U.A. Whitaker College of Engineering</a></li>
+                              <li><a aria-label="Bower School of Music &amp; the Arts" title="Bower School of Music &amp; the Arts" href="/cas/bsma/">Bower School of Music &amp; the Arts</a></li>
+                              <li><a aria-label="Daveler &amp; Kauanui School of Entrepreneurship" title="Daveler &amp; Kauanui School of Entrepreneurship" href="/school-of-entrepreneurship/">Daveler &amp; Kauanui School of Entrepreneurship</a></li>
+                              <li><a aria-label="School of Nursing" title="School of Nursing" href="/mariebcollege/nursing/">School of Nursing</a></li>
+                              <li><a xmlns:ouc="http://omniupdate.com/XSL/Variables" href="/cob/srhm/">School of Resort &amp; Hospitality Management</a></li>
+                              <li><a aria-label="The Water School" title="The Water School" href="/thewaterschool/">The Water School</a></li>
+                           </ul>
+                        </div>
+                     </section>
+                  </div>
+               </li>
+               <li class="nav-items"><button aria-expanded="false" title="Toggle Admissions &amp; Aid Submenu" aria-label="Toggle Admissions &amp; Aid Submenu"><span class="nav-items">Admissions &amp; Aid</span></button><div class="sub-menu col-sm-24">
+                     <section class="container-flex row-alt">
+                        <div class="col-sm-6"><span class="menu-title">Admissions &amp; Aid</span><p>Apply for admission as an undergraduate or graduate student and access financial resources
+                              to help you achieve your dreams. Get an early start through our Accelerated Collegiate
+                              Experience.</p><a href="/admissionsandaid" class="overview">Visit Admissions &amp; Aid<span class="icon-cta-arrow-right"></span></a></div>
+                        <div class="col-sm category-columns"><span>Undergraduate</span><ul>
+                              <li><a aria-label="Undergraduate Admissions" title="Undergraduate Admissions" href="/admissionsandaid/undergraduateadmissions">Admissions - Undergraduate</a></li>
+                              <li><a aria-label="Admitted Undergraduates" title="Admitted Undergraduates" href="/admissionsandaid/undergraduateadmissions/admittedstudents">Admitted Undergraduates</a></li>
+                              <li><a xmlns:ouc="http://omniupdate.com/XSL/Variables" href="https://apply.fgcu.edu/">Begin Undergraduate Application</a></li>
+                              <li><a aria-label="Explore Majors" title="Explore Majors" href="/academics/programguide/">Explore Majors</a></li>
+                              <li><a aria-label="Freshman/New Student" title="Freshman/New Student" href="/admissionsandaid/undergraduateadmissions/freshmanadmissions">Freshman/New Student</a></li>
+                              <li><a aria-label="International Undergraduates" title="International Undergraduates" href="/admissionsandaid/undergraduateadmissions/internationalstudents">International Undergraduates</a></li>
+                              <li><a aria-label="Non-Degree Students" title="Non-Degree Students" href="/admissionsandaid/undergraduateadmissions/nondegreeadmissions">Non-Degree Students</a></li>
+                              <li><a aria-label="Returning Students" title="Returning Students" href="/admissionsandaid/undergraduateadmissions/returningadmissions">Returning Students</a></li>
+                              <li><a aria-label="Transfer Student" title="Transfer Student" href="/admissionsandaid/undergraduateadmissions/transferadmissions">Transfer Student<br xmlns:ouc="http://omniupdate.com/XSL/Variables"></a></li>
+                           </ul>
+                        </div>
+                        <div class="col-sm category-columns"><span>Graduate</span><ul>
+                              <li><a aria-label="Graduate Admissions" title="Graduate Admissions" href="/admissionsandaid/graduateadmissions">Admissions - Graduate</a></li>
+                              <li><a xmlns:ouc="http://omniupdate.com/XSL/Variables" href="https://apply.fgcu.edu/">Begin Graduate Application</a></li>
+                              <li><a xmlns:ouc="http://omniupdate.com/XSL/Variables" href="/admissionsandaid/graduateadmissions/degreesandprograms.aspx">Graduate Programs</a></li>
+                           </ul>
+                        </div>
+                        <div class="col-sm category-columns"><span>Enrollment</span><ul>
+                              <li><a aria-label="Visit FGCU Colleges and Schools" title="Visit FGCU Colleges and Schools" href="/academics/colleges">Colleges and Schools</a></li>
+                              <li><a aria-label="Dual Enrollment" title="Dual Enrollment" href="/admissionsandaid/ace">Dual Enrollment</a></li>
+                              <li><a aria-label="FGCU Financial Aid" title="FGCU Financial Aid" href="/admissionsandaid/financialaid/">Financial Aid &amp; Scholarships</a></li>
+                              <li><a aria-label="Enrollment Services Center" title="Enrollment Services Center" href="/enrollmentservices/">Enrollment Services Center</a></li>
+                              <li><a xmlns:ouc="http://omniupdate.com/XSL/Variables" href="/admissionsandaid/financialaid/netpricecalculator/npcalc.htm" target="_blank" rel="noopener">Net Price Calculator</a></li>
+                              <li><a aria-label="Programs Guide" title="Programs Guide" href="/academics/programguide/">Programs Guide/List</a></li>
+                              <li><a aria-label="Visit FGCU" title="Visit FGCU" href="/admissionsandaid/visitus/">Visit FGCU</a></li>
+                              <li><a aria-label="Virtual Tour" title="Virtual Tour" href="/virtualtour/">Virtual Tour</a></li>
+                           </ul>
+                        </div>
+                     </section>
+                  </div>
+               </li>
+               <li class="nav-items"><button aria-expanded="false" title="Toggle Student Life Submenu" aria-label="Toggle Student Life Submenu"><span class="nav-items">Student Life</span></button><div class="sub-menu col-sm-24">
+                     <section class="container-flex row-alt">
+                        <div class="col-sm-6"><span class="menu-title">Student Life</span><p>Explore state-of-the-art residence halls, dining options, student organizations, health
+                              services, campus recreation and other activities. Our service-learning program and
+                              leadership opportunities will help you grow as a person.</p><a href="/studentlife" class="overview">Visit Student Life<span class="icon-cta-arrow-right"></span></a></div>
+                        <div class="col-sm category-columns"><span>Student Success</span><ul>
+                              <li><a aria-label="FGCU Student Success" title="FGCU Student Success" href="/studentsuccess/">Student Success</a></li>
+                              <li><a aria-label="Adaptive Services" title="Adaptive Services" href="/adaptive/">Adaptive Services</a></li>
+                              <li><a aria-label="Center for Academic Achievement" title="Center for Academic Achievement" href="/academics/caa/">Center for Academic Achievement</a></li>
+                              <li><a xmlns:ouc="http://omniupdate.com/XSL/Variables" href="/complete/">FGCU Complete</a></li>
+                              <li><a aria-label="Multicultural &amp; Leadership Development" title="Multicultural &amp; Leadership Development" href="/studentlife/mld/">Multicultural &amp; Leadership Development</a></li>
+                              <li><a aria-label="Soar in 4" title="Soar in 4" href="/admissionsandaid/soarin4/">Soar in 4</a></li>
+                              <li><a aria-label="Student Involvement" title="Student Involvement" href="/studentlife/studentorgs/">Student Involvement</a></li>
+                              <li><a aria-label="Student Services" title="Student Services" href="/studentlife/studentservices/">Student Services</a></li>
+                              <li><a aria-label="Tech Support Services" title="Tech Support Services" href="/techservices/">Tech Support Services</a></li>
+                              <li><a aria-label="TRIO Student Support Services" title="TRIO Student Support Services" href="/trio/">TRIO Student Support Services</a></li>
+                              <li><a aria-label="Virtual Campus" title="Virtual Campus" href="/virtualcampus/">Virtual Campus</a></li>
+                           </ul>
+                        </div>
+                        <div class="col-sm category-columns"><span>Student Services</span><ul>
+                              <li><a aria-label="Arise" title="Arise" href="/arise/">Arise</a></li>
+                              <li><a aria-label="Career Services" title="Career Services" href="/careerservices/">Career Services</a></li>
+                              <li><a aria-label="Counseling and Psychological Services" title="Counseling and Psychological Services" href="/counseling-and-psychological-services/">Counseling and Psychological Services</a></li>
+                              <li><a aria-label="First Year Experience" title="First Year Experience" href="/firstyearexperience/orientation/">First Year Experience</a></li>
+                              <li><a aria-label="Health and Safety" title="Health and Safety" href="/studentlife/healthandsafety">Health and Safety</a></li>
+                              <li><a aria-label="Service Learning" title="Service Learning" href="/studentlife/servicelearning">Service-Learning</a></li>
+                              <li><a aria-label="Student Government" title="Student Government" href="/sg/">Student Government</a></li>
+                              <li><a aria-label="Student Organizations" title="Student Organizations" href="/studentlife/studentorgs/">Student Organizations</a></li>
+                              <li><a aria-label="Student Services" title="Student Services" href="/studentlife/studentservices">Student Services</a></li>
+                           </ul>
+                        </div>
+                        <div class="col-sm category-columns"><span>Campus Life</span><ul>
+                              <li><a aria-label="FGCU Athletics" title="FGCU Athletics" href="https://fgcuathletics.com/" target="_blank" rel="noopener">Athletics</a></li>
+                              <li><a aria-label="FGCU Bookstore" title="FGCU Bookstore" href="http://www.fgcustore.com" target="_blank" rel="noopener">Bookstore</a></li>
+                              <li><a aria-label="Campus Life" title="Campus Life" href="/studentlife/campuslife/">Campus Life</a></li>
+                              <li><a aria-label="Campus Rec" title="Campus Rec" href="/studentlife/campusrec/">Campus Recreation</a></li>
+                              <li><a aria-label="Dining Services" title="Dining Services" href="https://www.dineoncampus.com/fgcu" target="_blank" rel="noopener">Dining Services</a></li>
+                              <li><a aria-label="Fraternity/Sorority Life" title="Fraternity/Sorority Life" href="/studentlife/fraternitysororitylife/">Fraternity/Sorority Life</a></li>
+                              <li><a aria-label="Getting Around" title="Getting Around" href="/studentlife/gettingaround">Getting Around</a></li>
+                              <li><a aria-label="Housing &amp; Residence Life" title="Housing &amp; Residence Life" href="/studentlife/housing/">Housing &amp; Residence Life</a></li>
+                              <li><a aria-label="Visiting Campus" title="Visiting Campus" href="/admissionsandaid/visitus/">Visit FGCU</a></li>
+                           </ul>
+                        </div>
+                     </section>
+                  </div>
+               </li>
+               <li class="nav-items"><button aria-expanded="false" title="Toggle Community Submenu" aria-label="Toggle Community Submenu"><span class="nav-items">Community</span></button><div class="sub-menu col-sm-24">
+                     <section class="container-flex row-alt">
+                        <div class="col-sm-6"><span class="menu-title">Community</span><p>FGCU is actively engaged with Southwest Florida through cultural activities, educational
+                              programs and exciting athletics. We’re also home to WGCU Public Media.</p><a href="/cultureandcommunity" class="overview">Visit Community<span class="icon-cta-arrow-right"></span></a></div>
+                        <div class="col-sm category-columns"><span>Activities</span><ul>
+                              <li><a aria-label="Athletic Events" title="Athletic Events" href="http://fgcuathletics.com/calendar.aspx?preset=current" target="_blank" rel="noopener">Athletic Events</a></li>
+                              <li><a aria-label="Buy Tickets - Performing Arts" title="Buy Tickets - Performing Arts" href="https://secure.touchnet.com/C20748_ustores/web/classic/store_main.jsp?STOREID=12&amp;clearPreview=true&amp;SINGLESTORE=true">Buy Tickets - Performing Arts</a></li>
+                              <li><a aria-label="Calendar of Events" title="Calendar of Events" href="/calendar">Calendar of Events</a></li>
+                              <li><a aria-label="Liebert Lecture Series" title="Liebert Lecture Series" href="/worldaffairslectures/">Liebert Lecture Series</a></li>
+                              <li><a aria-label="Performing &amp; Visual Arts" title="Performing &amp; Visual Arts" href="/cultureandcommunity/performingandvisualarts">Performing &amp; Visual Arts</a></li>
+                           </ul>
+                        </div>
+                        <div class="col-sm category-columns"><span>Engagement</span><ul>
+                              <li><a aria-label="Continuing Education" title="Continuing Education" href="/academics/ced/">Continuing Education</a></li>
+                              <li><a aria-label="Community Outreach" title="Community Outreach" href="/cultureandcommunity/communityoutreach">Community Outreach</a></li>
+                              <li><a aria-label="Give Now" title="Give Now" href="/advancement/waystogive/givenow">Give Now</a></li>
+                              <li><a aria-label="WGCU Public Media" title="WGCU Public Media" href="https://www.wgcu.org/" target="_blank" rel="noopener">WGCU Public Media</a></li>
+                              <li><a aria-label="Wings of Hope" title="Wings of Hope" href="/cas/communityimpact/wingsofhope/">Wings of Hope</a></li>
+                              <li><a aria-label="Support FGCU" title="Support FGCU" href="/advancement/">Support FGCU/Philanthropy</a></li>
+                           </ul>
+                        </div>
+                        <div class="col-sm category-columns"><span>Centers</span><ul>
+                              <li><a aria-label="Center for Environment and Society" title="Center for Environment and Society" href="/thewaterschool/centers/ces/">Center for Environment and Society</a></li>
+                              <li><a aria-label="Facilities/Aquatics Center" title="Facilities/Aquatics Center" href="/studentlife/campusrec/facilities/">Facilities/Aquatics Center</a></li>
+                              <li><a aria-label="Small Business Development Center" title="Small Business Development Center" href="https://fsbdcswfl.org/">Small Business Development Center</a></li>
+                              <li><a aria-label="Whitaker Center for STEM" title="Whitaker Center for STEM" href="/cas/centers/whitaker/">Whitaker Center for STEM</a></li>
+                           </ul>
+                        </div>
+                     </section>
+                  </div>
+               </li>
+               <li class="nav-items"><button aria-expanded="false" title="Toggle Resources Submenu" aria-label="Toggle Resources Submenu"><span class="nav-items">Resources</span></button><div class="sub-menu col-sm-24">
+                     <section class="container-flex row-alt">
+                        <div class="col-sm-6"><span class="menu-title">Resources</span><p>See what’s available to enhance your FGCU experience. Find out what’s happening on
+                              campus through our social media channels and other sources of news and information.</p><a href="/azindex/" class="overview">Visit Resources<span class="icon-cta-arrow-right"></span></a></div>
+                        <div class="col-sm category-columns"><span>Resources For</span><ul>
+                              <li><a aria-label="Visit FGCU Alumni Association" title="Visit FGCU Alumni Association" href="/alumni/">Alumni</a></li>
+                              <li><a aria-label="Resources for FGCU Eagles!" title="Resources for FGCU Eagles!" href="/currentstudents/">Current Students</a></li>
+                              <li><a xmlns:ouc="http://omniupdate.com/XSL/Variables" href="/advancement/waystogive/givenow.aspx">Donors</a></li>
+                              <li><a aria-label="FGCU Jobs" title="FGCU Jobs" href="/hr/jobs-at-fgcu">Employment/FGCU Jobs</a></li>
+                              <li><a aria-label="Visit FGCU Faculty &amp; Staff Resources" title="Visit FGCU Faculty &amp; Staff Resources" href="/facultystaff/">Faculty &amp; Staff</a></li>
+                              <li><a xmlns:ouc="http://omniupdate.com/XSL/Variables" href="/admissionsandaid/undergraduateadmissions/highschoolcounselors.aspx">High School Counselors</a></li>
+                              <li><a aria-label="Military and Veterans" title="Military and Veterans" href="/militaryandveteransuccess/">Military and Veterans</a></li>
+                              <li><a xmlns:ouc="http://omniupdate.com/XSL/Variables" href="/admissionsandaid/visitus/">Visitors</a></li>
+                           </ul>
+                        </div>
+                        <div class="col-sm category-columns"><span>Shortcuts</span><ul>
+                              <li><a aria-label="A - Z Index" title="A - Z Index" href="/azindex/">A - Z Index</a></li>
+                              <li><a xmlns:ouc="http://omniupdate.com/XSL/Variables" href="/events/">Calendar of Events</a></li>
+                              <li><a xmlns:ouc="http://omniupdate.com/XSL/Variables" href="/campusmap/">Campus Map</a></li>
+                              <li><a aria-label="FGCU Library" title="FGCU Library" href="http://library.fgcu.edu/">Library</a></li>
+                              <li><a aria-label="Photo Galleries" title="Photo Galleries" href="/photogalleries/">Photo Galleries</a></li>
+                              <li><a aria-label="Records &amp; Registration" title="Records &amp; Registration" href="/recordsandregistration">Records &amp; Registration</a></li>
+                              <li><a aria-label="Virtual Campus" title="Virtual Campus" href="/virtualcampus/">Virtual Campus</a></li>
+                              <li><a aria-label="Virtual Tour" title="Virtual Tour" href="/virtualtour/">Virtual Tour</a></li>
+                              <li><a aria-label="Workday" title="Workday" href="/workday/">Workday</a></li>
+                           </ul>
+                        </div>
+                        <div class="col-sm category-columns"><span>Connect</span><ul>
+                              <li><a href="https://fgcu360.com" class="social-icon youtube"><span class="icon-360-logo"></span><span class="title">FGCU360</span></a></li>
+                              <li><a href="https://www.facebook.com/FloridaGulfCoastUniversity/" class="social-icon facebook"><span class="icon-icon-facebook"></span><span class="title">Facebook</span></a></li>
+                              <li><a href="https://www.instagram.com/fgcu/" class="social-icon instagram"><span class="icon-icon-instagram"></span><span class="title">Instagram</span></a></li>
+                              <li><a href="https://twitter.com/fgcu/" class="social-icon twitter"><span class="icon-icon-twitter"></span><span class="title">Twitter</span></a></li>
+                              <li><a href="https://www.youtube.com/fgcu" class="social-icon youtube"><span class="icon-icon-youtube"></span><span class="title">Youtube</span></a></li>
+                              <li><a href="https://www.linkedin.com/edu/school?id=18091" class="social-icon linkedin"><span class="icon-icon-linkedin"></span><span class="title">LinkedIn</span></a></li>
+                           </ul>
+                        </div>
+                     </section>
+                  </div>
+               </li>
+               <li class="nav-items"><a href="https://fgcuathletics.com/">Athletics</a></li>
+            </ul>
+         </section>
+      </div>
+   </div>
+   <div class="redesign-mobile"><a class="logo" href="/"><img xmlns:ouc="http://omniupdate.com/XSL/Variables" alt="FGCU Logo" src="/_resources/images/logo-horizontal-white.svg"></a><div class="header-nav">
+         <div class="nav-main">
+            <div class="nav-main-container"><button aria-expanded="false" id="main-menu-toggle"><span class="label">Menu Toggle</span><span class="top"></span><span class="middle"></span><span class="bottom"></span></button><nav id="nav-main" role="navigation" aria-label="Main Navigation" aria-hidden="true">
+                  <div class="left-panel panel">
+                     <div id="quick-links-mobile" class="quick-links hide-on-desktop">
+                        <ul>
+                           <li><a title="Canvas" href="/canvas/">
+                                 <div><span class="icon-canvas"></span><span>Canvas</span></div></a></li>
+                           <li><a title="FGCU Directory" href="/directory">
+                                 <div><span class="icon-book-closed"></span><span>Directory</span></div></a></li>
+                           <li><a title="FGCU Email" href="/email">
+                                 <div><span class="icon-mail-close"></span><span>Email</span></div></a></li>
+                           <li><a title="GULFLINE" href="/gulfline/">
+                                 <div><span class="icon-laptop-1"></span><span>Gulfline</span></div></a></li>
+                           <li><a title="My FGCU" href="https://my.fgcu.edu/">
+                                 <div><span class="icon-apply-profile"></span><span>MyFGCU</span></div></a></li>
+                        </ul>
+                     </div>
+                     <div class="main-menu-container"><a href="/admissionsandaid/" class="direct-link direct-link-first">Apply Now</a><ul class="main-menu">
+                           <li><a aria-label="About FGCU" title="About FGCU" href="/about">About</a><button aria-expanded="false" title="Toggle About Submenu" aria-label="Toggle About Submenu"><span class="icon-down-open"></span></button><ul class="sub-menu" aria-hidden="true">
+                                 <li><a aria-label="Accreditation" title="Accreditation" href="/about/accreditation">Accreditation</a></li>
+                                 <li><a aria-label="Campus Map/Directions" title="Campus Map/Directions" href="/campusmap/">Campus Map/Directions</a></li>
+                                 <li><a aria-label="Contact Us" title="Contact Us" href="/about/contactus">Contact Us</a></li>
+                                 <li><a aria-label="Fast Facts" title="Fast Facts" href="/about/fastfacts">Fast Facts</a></li>
+                                 <li><a aria-label="FGCU Jobs" title="FGCU Jobs" href="/hr/jobs-at-fgcu">FGCU Jobs</a></li>
+                                 <li><a aria-label="Photo Galleries" title="Photo Galleries" href="/photogalleries/">Photo Galleries</a></li>
+                                 <li><a aria-label="Visit FGCU" title="Visit FGCU" href="/admissionsandaid/visitus/schedulevisit">Visit FGCU</a></li>
+                                 <li><a aria-label="Advancement/Foundation" title="Advancement/Foundation" href="/advancement/">Advancement / Foundation</a></li>
+                                 <li><a aria-label="Faculty Senate" title="Faculty Senate" href="/facultysenate/">Faculty Senate</a></li>
+                                 <li><a aria-label="EEO/EO/AA M/VET/Diversity/Title IX" title="EEO/EO/AA M/VET/Diversity/Title IX" href="/equity/">EEO/EO/AA M/VET/Diversity/Title IX</a></li>
+                                 <li><a aria-label="General Counsel" title="General Counsel" href="/generalcounsel/">General Counsel</a></li>
+                                 <li><a aria-label="Government Relations" title="Government Relations" href="/governmentrelations/">Government Relations</a></li>
+                                 <li><a aria-label="Office of Compliance and Ethics" title="Office of Compliance and Ethics" href="/equity/ethics/">Office of Compliance and Ethics</a></li>
+                                 <li><a aria-label="Support FGCU" title="Support FGCU" href="/advancement/waystogive/givenow">Support FGCU</a></li>
+                                 <li><a aria-label="University Leadership" title="University Leadership" href="/about/leadership/">University Leadership</a></li>
+                                 <li><a aria-label="Civic Engagement" title="Civic Engagement" href="/thefgcueffect/civicengagement">Civic Engagement</a></li>
+                                 <li><a aria-label="Eagle Advocacy" title="Eagle Advocacy" href="https://fgcueagleadvocacy.com/">Eagle Advocacy</a></li>
+                                 <li><a aria-label="Environment &amp; Sustainability" title="Environment &amp; Sustainability" href="/thefgcueffect/environmentandsustainability">Environment &amp; Sustainability</a></li>
+                                 <li><a aria-label="Expert Directory" title="Expert Directory" href="http://newsroom.fgcu.edu/experts/" target="_blank" rel="noopener">Expert Directory</a></li>
+                                 <li><a aria-label="Speakers Bureau" title="Speakers Bureau" href="/thefgcueffect/speakersbureau">Speakers Bureau</a></li>
+                              </ul>
+                           </li>
+                           <li><a aria-label="Learn about FGCU academics" title="Learn about FGCU academics" href="/academics">Academics</a><button aria-expanded="false" title="Toggle Academics Submenu" aria-label="Toggle Academics Submenu"><span class="icon-down-open"></span></button><ul class="sub-menu" aria-hidden="true">
+                                 <li><a aria-label="Visit FGCU Advising" title="Visit FGCU Advising" href="/academics/advising/">Academic Advising</a></li>
+                                 <li><a aria-label="Visit FGCU Colleges and Schools" title="Visit FGCU Colleges and Schools" href="/academics/colleges">Colleges and Schools</a></li>
+                                 <li><a aria-label="Continuing Education" title="Continuing Education" href="/academics/ced/">Continuing Education</a></li>
+                                 <li><a xmlns:ouc="http://omniupdate.com/XSL/Variables" href="/complete/">FGCU Complete</a></li>
+                                 <li><a aria-label="FGCU Online" title="FGCU Online" href="/online/">FGCU Online</a></li>
+                                 <li><a aria-label="General Education" title="General Education" href="/academics/generaleducation">General Education</a></li>
+                                 <li><a aria-label="Graduate Studies" title="Graduate Studies" href="/graduatestudies/">Graduate Studies</a></li>
+                                 <li><a xmlns:ouc="http://omniupdate.com/XSL/Variables" href="/academics/internationalservices/">International Services</a></li>
+                                 <li><a xmlns:ouc="http://omniupdate.com/XSL/Variables" href="/academics/internships/">Internships &amp; Co-op Programs</a></li>
+                                 <li><a aria-label="Study Abroad" title="Study Abroad" href="/academics/studyabroad/">Study Abroad</a></li>
+                                 <li><a aria-label="Academic Calendar" title="Academic Calendar" href="/academics/academiccalendar/">Academic Calendar</a></li>
+                                 <li><a aria-label="Academic Catalog" title="Academic Catalog" href="/catalog/">Academic Catalog</a></li>
+                                 <li><a aria-label="Course Descriptions" title="Course Descriptions" href="https://fgcu-web02.fgcu.edu/CourseDescriptions/">Course Descriptions</a></li>
+                                 <li><a aria-label="Course Listing/Schedule" title="Course Listing/Schedule" href="https://gulfline.fgcu.edu/pls/fgpo/szkschd.p_showform">Course Listing/Schedule</a></li>
+                                 <li><a aria-label="FGCU Library" title="FGCU Library" href="http://library.fgcu.edu">Library</a></li>
+                                 <li><a aria-label="Programs Guide" title="Programs Guide" href="/academics/programguide/">Programs Guide/List</a></li>
+                                 <li><a aria-label="Records &amp; Registration" title="Records &amp; Registration" href="/recordsandregistration">Records &amp; Registration</a></li>
+                                 <li><a aria-label="FGCU Research" title="FGCU Research" href="/academics/research/">Research &amp; Sponsored Programs</a></li>
+                                 <li><a aria-label="Scholarly Innovation &amp; Student Research" title="Scholarly Innovation &amp; Student Research" href="/sisr/">Student Research/Learning</a></li>
+                                 <li><a aria-label="Testing &amp; Assessment" title="Testing &amp; Assessment" href="/testing/">Testing &amp; Assessment</a></li>
+                                 <li><a aria-label="The Writing Lab" title="The Writing Lab" href="/academics/caa/writinglab/">The Writing Lab</a></li>
+                                 <li><a aria-label="College of Arts &amp; Sciences" title="College of Arts &amp; Sciences" href="/cas/">College of Arts &amp; Sciences</a></li>
+                                 <li><a aria-label="College of Education" title="College of Education" href="/coe/">College of Education</a></li>
+                                 <li><a aria-label="Honors College" title="Honors College" href="/honors/">Honors College</a></li>
+                                 <li><a aria-label="Lutgert College of Business" title="Lutgert College of Business" href="/cob/">Lutgert College of Business</a></li>
+                                 <li><a aria-label="Marieb College of Health &amp; Human Services" title="Marieb College of Health &amp; Human Services" href="/mariebcollege/">Marieb College of Health &amp; Human Services</a></li>
+                                 <li><a aria-label="U.A. Whitaker College of Engineering" title="U.A. Whitaker College of Engineering" href="/eng/">U.A. Whitaker College of Engineering</a></li>
+                                 <li><a aria-label="Bower School of Music &amp; the Arts" title="Bower School of Music &amp; the Arts" href="/cas/bsma/">Bower School of Music &amp; the Arts</a></li>
+                                 <li><a aria-label="Daveler &amp; Kauanui School of Entrepreneurship" title="Daveler &amp; Kauanui School of Entrepreneurship" href="/school-of-entrepreneurship/">Daveler &amp; Kauanui School of Entrepreneurship</a></li>
+                                 <li><a aria-label="School of Nursing" title="School of Nursing" href="/mariebcollege/nursing/">School of Nursing</a></li>
+                                 <li><a xmlns:ouc="http://omniupdate.com/XSL/Variables" href="/cob/srhm/">School of Resort &amp; Hospitality Management</a></li>
+                                 <li><a aria-label="The Water School" title="The Water School" href="/thewaterschool/">The Water School</a></li>
+                              </ul>
+                           </li>
+                           <li><a aria-label="Admissions &amp; Aid" title="Admissions &amp; Aid" href="/admissionsandaid">Admissions &amp; Aid</a><button aria-expanded="false" title="Toggle Admissions &amp; Aid Submenu" aria-label="Toggle Admissions &amp; Aid Submenu"><span class="icon-down-open"></span></button><ul class="sub-menu" aria-hidden="true">
+                                 <li><a aria-label="Undergraduate Admissions" title="Undergraduate Admissions" href="/admissionsandaid/undergraduateadmissions">Admissions - Undergraduate</a></li>
+                                 <li><a aria-label="Admitted Undergraduates" title="Admitted Undergraduates" href="/admissionsandaid/undergraduateadmissions/admittedstudents">Admitted Undergraduates</a></li>
+                                 <li><a xmlns:ouc="http://omniupdate.com/XSL/Variables" href="https://apply.fgcu.edu/">Begin Undergraduate Application</a></li>
+                                 <li><a aria-label="Explore Majors" title="Explore Majors" href="/academics/programguide/">Explore Majors</a></li>
+                                 <li><a aria-label="Freshman/New Student" title="Freshman/New Student" href="/admissionsandaid/undergraduateadmissions/freshmanadmissions">Freshman/New Student</a></li>
+                                 <li><a aria-label="International Undergraduates" title="International Undergraduates" href="/admissionsandaid/undergraduateadmissions/internationalstudents">International Undergraduates</a></li>
+                                 <li><a aria-label="Non-Degree Students" title="Non-Degree Students" href="/admissionsandaid/undergraduateadmissions/nondegreeadmissions">Non-Degree Students</a></li>
+                                 <li><a aria-label="Returning Students" title="Returning Students" href="/admissionsandaid/undergraduateadmissions/returningadmissions">Returning Students</a></li>
+                                 <li><a aria-label="Transfer Student" title="Transfer Student" href="/admissionsandaid/undergraduateadmissions/transferadmissions">Transfer Student<br xmlns:ouc="http://omniupdate.com/XSL/Variables"></a></li>
+                                 <li><a aria-label="Graduate Admissions" title="Graduate Admissions" href="/admissionsandaid/graduateadmissions">Admissions - Graduate</a></li>
+                                 <li><a xmlns:ouc="http://omniupdate.com/XSL/Variables" href="https://apply.fgcu.edu/">Begin Graduate Application</a></li>
+                                 <li><a xmlns:ouc="http://omniupdate.com/XSL/Variables" href="/admissionsandaid/graduateadmissions/degreesandprograms.aspx">Graduate Programs</a></li>
+                                 <li><a aria-label="Visit FGCU Colleges and Schools" title="Visit FGCU Colleges and Schools" href="/academics/colleges">Colleges and Schools</a></li>
+                                 <li><a aria-label="Dual Enrollment" title="Dual Enrollment" href="/admissionsandaid/ace">Dual Enrollment</a></li>
+                                 <li><a aria-label="FGCU Financial Aid" title="FGCU Financial Aid" href="/admissionsandaid/financialaid/">Financial Aid &amp; Scholarships</a></li>
+                                 <li><a aria-label="Enrollment Services Center" title="Enrollment Services Center" href="/enrollmentservices/">Enrollment Services Center</a></li>
+                                 <li><a xmlns:ouc="http://omniupdate.com/XSL/Variables" href="/admissionsandaid/financialaid/netpricecalculator/npcalc.htm" target="_blank" rel="noopener">Net Price Calculator</a></li>
+                                 <li><a aria-label="Programs Guide" title="Programs Guide" href="/academics/programguide/">Programs Guide/List</a></li>
+                                 <li><a aria-label="Visit FGCU" title="Visit FGCU" href="/admissionsandaid/visitus/">Visit FGCU</a></li>
+                                 <li><a aria-label="Virtual Tour" title="Virtual Tour" href="/virtualtour/">Virtual Tour</a></li>
+                              </ul>
+                           </li>
+                           <li><a aria-label="FGCU Student Life" title="FGCU Student Life" href="/studentlife">Student Life</a><button aria-expanded="false" title="Toggle Student Life Submenu" aria-label="Toggle Student Life Submenu"><span class="icon-down-open"></span></button><ul class="sub-menu" aria-hidden="true">
+                                 <li><a aria-label="FGCU Student Success" title="FGCU Student Success" href="/studentsuccess/">Student Success</a></li>
+                                 <li><a aria-label="Adaptive Services" title="Adaptive Services" href="/adaptive/">Adaptive Services</a></li>
+                                 <li><a aria-label="Center for Academic Achievement" title="Center for Academic Achievement" href="/academics/caa/">Center for Academic Achievement</a></li>
+                                 <li><a xmlns:ouc="http://omniupdate.com/XSL/Variables" href="/complete/">FGCU Complete</a></li>
+                                 <li><a aria-label="Multicultural &amp; Leadership Development" title="Multicultural &amp; Leadership Development" href="/studentlife/mld/">Multicultural &amp; Leadership Development</a></li>
+                                 <li><a aria-label="Soar in 4" title="Soar in 4" href="/admissionsandaid/soarin4/">Soar in 4</a></li>
+                                 <li><a aria-label="Student Involvement" title="Student Involvement" href="/studentlife/studentorgs/">Student Involvement</a></li>
+                                 <li><a aria-label="Student Services" title="Student Services" href="/studentlife/studentservices/">Student Services</a></li>
+                                 <li><a aria-label="Tech Support Services" title="Tech Support Services" href="/techservices/">Tech Support Services</a></li>
+                                 <li><a aria-label="TRIO Student Support Services" title="TRIO Student Support Services" href="/trio/">TRIO Student Support Services</a></li>
+                                 <li><a aria-label="Virtual Campus" title="Virtual Campus" href="/virtualcampus/">Virtual Campus</a></li>
+                                 <li><a aria-label="Arise" title="Arise" href="/arise/">Arise</a></li>
+                                 <li><a aria-label="Career Services" title="Career Services" href="/careerservices/">Career Services</a></li>
+                                 <li><a aria-label="Counseling and Psychological Services" title="Counseling and Psychological Services" href="/counseling-and-psychological-services/">Counseling and Psychological Services</a></li>
+                                 <li><a aria-label="First Year Experience" title="First Year Experience" href="/firstyearexperience/orientation/">First Year Experience</a></li>
+                                 <li><a aria-label="Health and Safety" title="Health and Safety" href="/studentlife/healthandsafety">Health and Safety</a></li>
+                                 <li><a aria-label="Service Learning" title="Service Learning" href="/studentlife/servicelearning">Service-Learning</a></li>
+                                 <li><a aria-label="Student Government" title="Student Government" href="/sg/">Student Government</a></li>
+                                 <li><a aria-label="Student Organizations" title="Student Organizations" href="/studentlife/studentorgs/">Student Organizations</a></li>
+                                 <li><a aria-label="Student Services" title="Student Services" href="/studentlife/studentservices">Student Services</a></li>
+                                 <li><a aria-label="FGCU Athletics" title="FGCU Athletics" href="https://fgcuathletics.com/" target="_blank" rel="noopener">Athletics</a></li>
+                                 <li><a aria-label="FGCU Bookstore" title="FGCU Bookstore" href="http://www.fgcustore.com" target="_blank" rel="noopener">Bookstore</a></li>
+                                 <li><a aria-label="Campus Life" title="Campus Life" href="/studentlife/campuslife/">Campus Life</a></li>
+                                 <li><a aria-label="Campus Rec" title="Campus Rec" href="/studentlife/campusrec/">Campus Recreation</a></li>
+                                 <li><a aria-label="Dining Services" title="Dining Services" href="https://www.dineoncampus.com/fgcu" target="_blank" rel="noopener">Dining Services</a></li>
+                                 <li><a aria-label="Fraternity/Sorority Life" title="Fraternity/Sorority Life" href="/studentlife/fraternitysororitylife/">Fraternity/Sorority Life</a></li>
+                                 <li><a aria-label="Getting Around" title="Getting Around" href="/studentlife/gettingaround">Getting Around</a></li>
+                                 <li><a aria-label="Housing &amp; Residence Life" title="Housing &amp; Residence Life" href="/studentlife/housing/">Housing &amp; Residence Life</a></li>
+                                 <li><a aria-label="Visiting Campus" title="Visiting Campus" href="/admissionsandaid/visitus/">Visit FGCU</a></li>
+                              </ul>
+                           </li>
+                           <li><a aria-label="Culture &amp; Community" title="Culture &amp; Community" href="/cultureandcommunity">Community</a><button aria-expanded="false" title="Toggle Community Submenu" aria-label="Toggle Community Submenu"><span class="icon-down-open"></span></button><ul class="sub-menu" aria-hidden="true">
+                                 <li><a aria-label="Athletic Events" title="Athletic Events" href="http://fgcuathletics.com/calendar.aspx?preset=current" target="_blank" rel="noopener">Athletic Events</a></li>
+                                 <li><a aria-label="Buy Tickets - Performing Arts" title="Buy Tickets - Performing Arts" href="https://secure.touchnet.com/C20748_ustores/web/classic/store_main.jsp?STOREID=12&amp;clearPreview=true&amp;SINGLESTORE=true">Buy Tickets - Performing Arts</a></li>
+                                 <li><a aria-label="Calendar of Events" title="Calendar of Events" href="/calendar">Calendar of Events</a></li>
+                                 <li><a aria-label="Liebert Lecture Series" title="Liebert Lecture Series" href="/worldaffairslectures/">Liebert Lecture Series</a></li>
+                                 <li><a aria-label="Performing &amp; Visual Arts" title="Performing &amp; Visual Arts" href="/cultureandcommunity/performingandvisualarts">Performing &amp; Visual Arts</a></li>
+                                 <li><a aria-label="Continuing Education" title="Continuing Education" href="/academics/ced/">Continuing Education</a></li>
+                                 <li><a aria-label="Community Outreach" title="Community Outreach" href="/cultureandcommunity/communityoutreach">Community Outreach</a></li>
+                                 <li><a aria-label="Give Now" title="Give Now" href="/advancement/waystogive/givenow">Give Now</a></li>
+                                 <li><a aria-label="WGCU Public Media" title="WGCU Public Media" href="https://www.wgcu.org/" target="_blank" rel="noopener">WGCU Public Media</a></li>
+                                 <li><a aria-label="Wings of Hope" title="Wings of Hope" href="/cas/communityimpact/wingsofhope/">Wings of Hope</a></li>
+                                 <li><a aria-label="Support FGCU" title="Support FGCU" href="/advancement/">Support FGCU/Philanthropy</a></li>
+                                 <li><a aria-label="Center for Environment and Society" title="Center for Environment and Society" href="/thewaterschool/centers/ces/">Center for Environment and Society</a></li>
+                                 <li><a aria-label="Facilities/Aquatics Center" title="Facilities/Aquatics Center" href="/studentlife/campusrec/facilities/">Facilities/Aquatics Center</a></li>
+                                 <li><a aria-label="Small Business Development Center" title="Small Business Development Center" href="https://fsbdcswfl.org/">Small Business Development Center</a></li>
+                                 <li><a aria-label="Whitaker Center for STEM" title="Whitaker Center for STEM" href="/cas/centers/whitaker/">Whitaker Center for STEM</a></li>
+                              </ul>
+                           </li>
+                           <li><a aria-label="Resources" title="Resources" href="/azindex/">Resources</a><button aria-expanded="false" title="Toggle Resources Submenu" aria-label="Toggle Resources Submenu"><span class="icon-down-open"></span></button><ul class="sub-menu" aria-hidden="true">
+                                 <li><a aria-label="Visit FGCU Alumni Association" title="Visit FGCU Alumni Association" href="/alumni/">Alumni</a></li>
+                                 <li><a aria-label="Resources for FGCU Eagles!" title="Resources for FGCU Eagles!" href="/currentstudents/">Current Students</a></li>
+                                 <li><a xmlns:ouc="http://omniupdate.com/XSL/Variables" href="/advancement/waystogive/givenow.aspx">Donors</a></li>
+                                 <li><a aria-label="FGCU Jobs" title="FGCU Jobs" href="/hr/jobs-at-fgcu">Employment/FGCU Jobs</a></li>
+                                 <li><a aria-label="Visit FGCU Faculty &amp; Staff Resources" title="Visit FGCU Faculty &amp; Staff Resources" href="/facultystaff/">Faculty &amp; Staff</a></li>
+                                 <li><a xmlns:ouc="http://omniupdate.com/XSL/Variables" href="/admissionsandaid/undergraduateadmissions/highschoolcounselors.aspx">High School Counselors</a></li>
+                                 <li><a aria-label="Military and Veterans" title="Military and Veterans" href="/militaryandveteransuccess/">Military and Veterans</a></li>
+                                 <li><a xmlns:ouc="http://omniupdate.com/XSL/Variables" href="/admissionsandaid/visitus/">Visitors</a></li>
+                                 <li><a aria-label="A - Z Index" title="A - Z Index" href="/azindex/">A - Z Index</a></li>
+                                 <li><a xmlns:ouc="http://omniupdate.com/XSL/Variables" href="/events/">Calendar of Events</a></li>
+                                 <li><a xmlns:ouc="http://omniupdate.com/XSL/Variables" href="/campusmap/">Campus Map</a></li>
+                                 <li><a aria-label="FGCU Library" title="FGCU Library" href="http://library.fgcu.edu/">Library</a></li>
+                                 <li><a aria-label="Photo Galleries" title="Photo Galleries" href="/photogalleries/">Photo Galleries</a></li>
+                                 <li><a aria-label="Records &amp; Registration" title="Records &amp; Registration" href="/recordsandregistration">Records &amp; Registration</a></li>
+                                 <li><a aria-label="Virtual Campus" title="Virtual Campus" href="/virtualcampus/">Virtual Campus</a></li>
+                                 <li><a aria-label="Virtual Tour" title="Virtual Tour" href="/virtualtour/">Virtual Tour</a></li>
+                                 <li><a aria-label="Workday" title="Workday" href="/workday/">Workday</a></li>
+                                 <ul>
+                                    <li><a href="https://fgcu360.com" class="social-icon youtube"><span class="icon-360-logo"></span><span class="title">FGCU360</span></a></li>
+                                    <li><a href="https://www.facebook.com/FloridaGulfCoastUniversity/" class="social-icon facebook"><span class="icon-icon-facebook"></span><span class="title">Facebook</span></a></li>
+                                    <li><a href="https://www.instagram.com/fgcu/" class="social-icon instagram"><span class="icon-icon-instagram"></span><span class="title">Instagram</span></a></li>
+                                    <li><a href="https://twitter.com/fgcu/" class="social-icon twitter"><span class="icon-icon-twitter"></span><span class="title">Twitter</span></a></li>
+                                    <li><a href="https://www.youtube.com/fgcu" class="social-icon youtube"><span class="icon-icon-youtube"></span><span class="title">Youtube</span></a></li>
+                                    <li><a href="https://www.linkedin.com/edu/school?id=18091" class="social-icon linkedin"><span class="icon-icon-linkedin"></span><span class="title">LinkedIn</span></a></li>
+                                 </ul>
+                              </ul>
+                           </li>
+                           <li><a href="https://fgcuathletics.com/" class="direct-link">Athletics</a></li>
+                        </ul>
+                     </div>
+                     <div class="social-menu">
+                        <ul>
+                           <li><a href="https://fgcu360.com" class="social-icon youtube"><span class="icon-fgcu360-stacked"></span><span class="title">FGCU360</span></a></li>
+                           <li><a href="https://www.facebook.com/FloridaGulfCoastUniversity/" class="social-icon facebook"><span class="icon-icon-facebook"></span><span class="title">Facebook</span></a></li>
+                           <li><a href="https://www.instagram.com/fgcu/" class="social-icon instagram"><span class="icon-icon-instagram"></span><span class="title">Instagram</span></a></li>
+                           <li><a href="https://twitter.com/fgcu/" class="social-icon twitter"><span class="icon-icon-twitter"></span><span class="title">Twitter</span></a></li>
+                           <li><a href="https://www.youtube.com/fgcu" class="social-icon youtube"><span class="icon-icon-youtube"></span><span class="title">Youtube</span></a></li>
+                           <li><a href="https://www.linkedin.com/edu/school?id=18091" class="social-icon linkedin"><span class="icon-icon-linkedin"></span><span class="title">LinkedIn</span></a></li>
+                           <li><a href="/about/campusmap" class="social-icon youtube"><span class="icon-map-location"></span><span class="title">Campus Map</span></a></li>
+                        </ul>
+                     </div>
+                  </div>
+               </nav>
+            </div>
+            <div class="search-container"><button title="search" aria-label="search-toggle" aria-expanded="false" class="main-search-toggle"><span class="icon-search" style=""></span></button><div class="search-form-container" role="search" aria-hidden="true">
+                  <form action="/search-results/index.aspx"><input aria-label="Search FGCU" placeholder="Search FGCU" type="search" name="q" class="site-search" autofocus><input type="submit" title="Submit" value="Submit"></form>
+               </div>
+            </div>
+         </div>
+      </div>
+   </div>
+</fgcuheader><main class="main-content" role="main">
+         <article>
+            <section id="page-title" class="hero video"><video id="hero-video" class="hero-video ou-video-hide-mobile " style="height: auto; width: 100%; max-height: 526px;" autoplay loop preload="auto" muted alt="Decorative intro video showing FGCU students and programs.">
+                  <source src="https://fgcucdn.fgcu.edu/videos/homepage-sept-2022.mp4" type="video/mp4" media="screen and (min-width: 1000px)"></video><script>
+										//Add manual Play due to Safari blocking autoplay
+										document.getElementById('hero-video').play();															
+									</script><div id="video-controls"><button class="icon-pause" id="play-pause" aria-label="Play/Pause decorative video" title="Play/Pause decorative video"></button></div>
+               <div class="video-overlay-container" id="ou-video-container">
+                  <div class="desktop-banner" style="background-image: url(https://fgcucdn.fgcu.edu/homefiles/images/homepage-hero.jpg)">
+                     <div class="tablet-banner" style="background-image: url(/homefiles/images/homepage-hero-tablet.jpg)">
+                        <div id="mobileBanner" class="mobile-banner" style="background-image: url(/homefiles/images/homepage-hero-mobile.jpg)">
+                           <h1 id="vid-overlay">Discover your passion and plot your path</h1><button class="play-button" style="display: none;" id="ou-autoplay-video">Play Video</button></div>
+                     </div>
+                  </div>
+               </div>
+            </section>
+            <section class="text-container videopanel overlay-texture green rock">
+               <div class="container">
+                  <div class="container-flex row-alt">
+                     <div class="col-sm">
+                        
+                        <div xmlns:ouc="http://omniupdate.com/XSL/Variables" style="text-align: center;">Get the latest: <strong><a data-linkarrow="true" class="link-arrow white medium" href="/presidentialsearch/">FGCU Presidential Search<span class="icon-cta-arrow-right"></span></a></strong></div>
+                        </div>
+                  </div>
+               </div>
+            </section>
+            
+            <section class="text-container ">
+               <div class="container-flex">
+                  
+                  <p xmlns:ouc="http://omniupdate.com/XSL/Variables" class="h3" style="text-align: center;">Hurricane Ian Update</p>
+                  
+                  <p xmlns:ouc="http://omniupdate.com/XSL/Variables" style="text-align: center;"><a aria-label="Visit the Hurrican Ian recovery update site now." class="link-arrow red" title="Visit the Hurrican Ian recovery update site now." href="/hurricaneian/">Visit the Hurricane Ian recovery site now &gt;</a></p>
+                  </div>
+            </section>
+            
+            <section class="text-container ">
+               <div class="container-flex">
+                  
+                  <h2 xmlns:ouc="http://omniupdate.com/XSL/Variables" style="text-align: center;">Start your journey to career success at FGCU</h2>
+                  
+                  <p xmlns:ouc="http://omniupdate.com/XSL/Variables" class="statement-text" style="text-align: center;">Our comprehensive academic programs promote thorough scholarship and professional
+                     preparation while providing opportunities to explore interdisciplinary paths. You'll
+                     leave FGCU ready to excel.</p>
+                  </div>
+            </section>
+            
+            <section class="text-container lineicon  ">
+               <div class="container">
+                  <div class="container-flex row-alt">
+                     <div class="col-sm"><a href="/admissionsandaid/" target=""><img class="" src="https://fgcucdn.fgcu.edu/_resources/icons/svg/green/click.svg" alt="click ifographic" role="presentation" aria-hidden="true"><img class="" src="https://fgcucdn.fgcu.edu/_resources/icons/svg/blue/click.svg" alt="click ifographic" role="presentation" aria-hidden="true"><p class="line-icon-title">Apply</p>
+                           <p></p></a></div>
+                     <div class="col-sm"><a href="/academics/programguide/" target=""><img class="" src="https://fgcucdn.fgcu.edu/_resources/icons/svg/green/certificate.svg" alt="certificate ifographic" role="presentation" aria-hidden="true"><img class="" src="https://fgcucdn.fgcu.edu/_resources/icons/svg/blue/certificate.svg" alt="certificate ifographic" role="presentation" aria-hidden="true"><p class="line-icon-title">Explore Majors</p>
+                           <p></p></a></div>
+                     <div class="col-sm"><a href="/admissionsandaid/visitus/" target=""><img class="" src="https://fgcucdn.fgcu.edu/_resources/icons/svg/green/person.svg" alt="person ifographic" role="presentation" aria-hidden="true"><img class="" src="https://fgcucdn.fgcu.edu/_resources/icons/svg/blue/person.svg" alt="person ifographic" role="presentation" aria-hidden="true"><p class="line-icon-title">Visit Us</p>
+                           <p></p></a></div>
+                     <div class="col-sm"><a href="/advancement/waystogive/givenow" target=""><img class="" src="https://fgcucdn.fgcu.edu/_resources/icons/svg/green/clickusd.svg" alt="clickusd ifographic" role="presentation" aria-hidden="true"><img class="" src="https://fgcucdn.fgcu.edu/_resources/icons/svg/blue/clickusd.svg" alt="clickusd ifographic" role="presentation" aria-hidden="true"><p class="line-icon-title">Give Now</p>
+                           <p></p></a></div>
+                  </div>
+               </div>
+            </section>
+            
+            <section class="text-container ">
+               <div class="container-flex">
+                  <hr xmlns:ouc="http://omniupdate.com/XSL/Variables">
+                  
+                  <h3 xmlns:ouc="http://omniupdate.com/XSL/Variables" style="text-align: center;">Support the Hurricane Ian Relief Fund.<br>Your donations will be matched dollar for dollar.</h3>
+                  
+                  <section class="video-box row horizontalvideo">
+                     <div class="col-md-12 col-lg-12 col-sm-24">
+                        
+                        <div class="featured-video-wrapper ">
+                           <div class="featured-video">
+                              <div class="embed-container"><a class="video-thumbnail" href="https://www.youtube.com/embed/185BC2dez3g?rel=0&amp;controls=1&amp;showinfo=0&amp;autoplay=1&amp;auto_play=true"><img src="https://img.youtube.com/vi/185BC2dez3g/maxresdefault.jpg" alt="FGCU Hurricane Ian Relief Fund videoVideo Thumbnail" width="319" height="279"><div class="play-button" aria-label="Play Video" title="Play Video"></div></a></div>
+                           </div>
+                        </div>
+                        </div>
+                     <div class="col-md-12 col-lg-12 col-sm-24">
+                        <section class="videopanel overlay-texture blue rock">
+                           <div class="container">
+                              <div class="container-flex row-alt">
+                                 <div class="col-sm">
+                                    
+                                    <h2 xmlns:ouc="http://omniupdate.com/XSL/Variables">Support Eagles in Need.</h2>
+                                    
+                                    <p xmlns:ouc="http://omniupdate.com/XSL/Variables">The FGCU community has been severely impacted by Hurricane Ian. <span>When you support FGCU during these challenging times, your donation will be&nbsp;</span><strong>matched dollar for dollar</strong><span>.</span></p>
+                                    
+                                    <p xmlns:ouc="http://omniupdate.com/XSL/Variables" style="text-align: center;"><a class="button outline small white" href="/hurricaneian/ian-relief#iandonation">Give Now</a></p>
+                                    </div>
+                              </div>
+                           </div>
+                        </section>
+                     </div>
+                  </section>
+                  </div>
+            </section>
+            
+            <p xmlns:ouc="http://omniupdate.com/XSL/Variables">&nbsp;</p>
+            
+            <section class="infographics-billboard ">
+               <div class="container lightpaddingcontainer">
+                  <div class="row-alt">
+                     <div class="col-sm-24 horizontal description-container">
+                        <div id="defaultinfobillboard" class="defaultinfobillboard-show-content" style="display:inherit;" data-type="show-content">
+                           <div class="container-flex ">
+                              
+                              <p xmlns:ouc="http://omniupdate.com/XSL/Variables" class="h3">Learn&nbsp;| Live&nbsp;| Explore</p>
+                              </div>
+                        </div>
+                     </div>
+                     <div class="col-sm-24 horizontal graphics-container"><a href="/enrollmentservices/">
+                           <div class="col-xs-12 col-sm-6 col-md-6">
+                              <div class="col-sm-24 graphicsbox">
+                                 <div class="graphicsbox-img"><img src="https://fgcucdn.fgcu.edu/_resources/icons/svg/white/complete.svg" alt=""></div>
+                                 <div class="graphicsbox-txt">
+                                    <p>Enrollment Services</p>
+                                 </div>
+                              </div>
+                           </div></a><a href="/virtualcampus/">
+                           <div class="col-xs-12 col-sm-6 col-md-6">
+                              <div class="col-sm-24 graphicsbox">
+                                 <div class="graphicsbox-img"><img src="https://fgcucdn.fgcu.edu/_resources/icons/svg/white/laptop.svg" alt=""></div>
+                                 <div class="graphicsbox-txt">
+                                    <p>Virtual Campus</p>
+                                 </div>
+                              </div>
+                           </div></a><a href="/studentlife/housing/">
+                           <div class="col-xs-12 col-sm-6 col-md-6">
+                              <div class="col-sm-24 graphicsbox">
+                                 <div class="graphicsbox-img"><img src="https://fgcucdn.fgcu.edu/_resources/icons/svg/white/home.svg" alt=""></div>
+                                 <div class="graphicsbox-txt">
+                                    <p>Residence Life</p>
+                                 </div>
+                              </div>
+                           </div></a><a href="/admissionsandaid/visitus/tourgallery">
+                           <div class="col-xs-12 col-sm-6 col-md-6">
+                              <div class="col-sm-24 graphicsbox">
+                                 <div class="graphicsbox-img"><img src="https://fgcucdn.fgcu.edu/_resources/icons/svg/white/bus.svg" alt=""></div>
+                                 <div class="graphicsbox-txt">
+                                    <p>Tour Gallery</p>
+                                 </div>
+                              </div>
+                           </div></a></div>
+                  </div>
+               </div>
+            </section>
+            
+            <p xmlns:ouc="http://omniupdate.com/XSL/Variables">&nbsp;</p>
+            
+            <div class="container-flex row">
+               <div class="col-sm-8 twothirds">
+                  
+                  <p xmlns:ouc="http://omniupdate.com/XSL/Variables" class="h3">Discover FGCU</p>
+                  
+                  <p xmlns:ouc="http://omniupdate.com/XSL/Variables">At FGCU, we measure success one student at a time. Our <strong>22:1 student-to-faculty ratio</strong> and <strong>average class size of 33 students </strong>ensures a more personal education experience. Professors know their students by name.&nbsp;We
+                     also provide academic support services and flexible financial aid and scholarships
+                     to make your degree affordable.</p>
+                  <a aria-label="Learn How Students Succeed at FGCU" class="link-arrow blue medium" style="max-width: 800px;" title="Learn How Students Succeed at FGCU" href="/studentsuccess/">Learn&nbsp;how students succeed</a></div>
+               <div class="col-sm-16">
+                  
+                  <section class="text-container quickfacts">
+                     <div class="container-flex row-alt">
+                        <div class="col-sm col-xs-12"><a href="/admissionsandaid/">
+                              <h2>16K</h2>
+                              <p>Students Enrolled</p></a></div>
+                        <div class="col-sm col-xs-12"><a href="/academics/programguide/">
+                              <h2>63</h2>
+                              <p>Undergraduate Programs</p></a></div>
+                        <div class="col-sm col-xs-12"><a href="/admissionsandaid/graduateadmissions/degreesandprograms">
+                              <h2>26</h2>
+                              <p>Master's Programs</p></a></div>
+                        <div class="col-sm col-xs-12"><a href="/admissionsandaid/graduateadmissions/degreesandprograms#DoctoralDegrees">
+                              <h2>7</h2>
+                              <p>Doctoral Programs</p></a></div>
+                     </div>
+                  </section>
+                  
+                  <center xmlns:ouc="http://omniupdate.com/XSL/Variables">
+                     
+                     <p class="text-caption">Based on 2020/2021 Academic Catalog</p>
+                     </center>
+               </div>
+            </div>
+            
+            <section class="text-container inthenews">
+               <div class="container-flex">
+                  <h3>FGCU in the News<a class="button red outline flat small" href="https://fgcu360.com/">See All News</a></h3>
+               </div>
+               <div class="container-flex row-alt"><div class="col-sm-12"><a href="https://fgcu360.com/2022/10/27/hurricane-ian-relief-fund-helping-eagles-in-need/">	<div class=" newsitem">	   <div class="description">		  <div class="category">Giving</div>		  <p>Hurricane Ian relief fund helping Eagles in Need</p>	   </div>	   <img src="https://fgcu360.com/wp-content/uploads/sites/1/2022/10/ian-relief-thumbnail-v2.jpg" alt="Hurricane Ian relief fund helping Eagles in Need">	</div></a></div><div class="col-sm-6"><a href="https://fgcu360.com/2022/10/25/alums-nonprofit-opens-access-to-lgbt-themed-books/">	<div class=" newsitem">	   <div class="description">		  <div class="category">Alumni</div>		  <p>Alum’s nonprofit opens access to LGBT-themed books</p>	   </div>	   <img src="https://fgcu360.com/wp-content/uploads/sites/1/2022/09/Josh-Lambert-552x394-1.jpg" alt="Alum’s nonprofit opens access to LGBT-themed books">	</div></a><a href="https://fgcu360.com/2022/10/21/shady-rest-foundation-invests-in-institute-on-positive-aging/">	<div class="secondRow newsitem">	   <div class="description">		  <div class="category">College of Health & Human Services</div>		  <p>Shady Rest Foundation invests in Institute on Positive Aging</p>	   </div>	   <img src="https://fgcu360.com/wp-content/uploads/sites/1/2022/09/Shady-Rest-552x394-1.jpg" alt="Shady Rest Foundation invests in Institute on Positive Aging">	</div></a></div><div class="col-sm-6"><a href="https://fgcu360.com/2022/10/18/fgcu-water-school-researchers-survey-hurricane-ians-impact-on-gulf/">	<div class=" newsitem">	   <div class="description">		  <div class="category">Engagement</div>		  <p>FGCU Water School researchers survey Hurricane Ian’s impact on Gulf</p>	   </div>	   <img src="https://fgcu360.com/wp-content/uploads/sites/1/2022/10/Hogarth-Clips-For-News.mp4.00_00_33_21.Still001.jpg" alt="FGCU Water School researchers survey Hurricane Ian’s impact on Gulf">	</div></a><a href="https://fgcu360.com/2022/10/12/fgcu-announces-public-forums-to-meet-three-presidential-finalists/">	<div class="secondRow newsitem">	   <div class="description">		  <div class="category">Alumni</div>		  <p>FGCU announces public forums to meet three presidential finalists</p>	   </div>	   <img src="https://fgcu360.com/wp-content/uploads/sites/1/2022/09/DeansListWebImage-v2-1.jpg" alt="FGCU announces public forums to meet three presidential finalists">	</div></a></div></div>
+            </section>
+            
+            <p xmlns:ouc="http://omniupdate.com/XSL/Variables" class="line-break">&nbsp;</p>
+            
+            <section class="text-container eventslist">
+               <div class="container">
+                  <div class="col-sm-24">
+                     <h2 class="h3">Events<a class="button red outline flat small" href="/events/">Full Calendar</a></h2>
+                  </div><div class="col-sm-12"><div class="eventlistitem">	<a href="/events/event/?711623578/fgcu-featured-events/resort-hospitality-career-fair">	<div class="container-flex row">		<div class="col-md-5 col-sm-6 col-xs-7"><img src="https://live.staticflickr.com/65535/52461135415_9dbea018ed_o.jpg" alt="RESORT &amp; HOSPITALITY CAREER FAIR"></img></div>		<div class="col-md-18 col-sm-17 col-xs-16">			<p class="text-caption dateauthortags">RESORT &amp; HOSPITALITY CAREER FAIR</p>			<p class="h3">Oct 31 | 11:00 am - 3:00 pm</p>			<p class="text-caption"><span>This Career and Internship Fair is hosted by the School of Resort &amp; Hospitality, but open to all majors.&#</span></p>		</div>	</div>	</a></div><div class="eventlistitem">	<a href="/events/event/?738823507/fgcu-featured-events/fgcu-volleyball-vs-stetson">	<div class="container-flex row">		<div class="col-md-5 col-sm-6 col-xs-7"><img src="https://live.staticflickr.com/65535/52289997703_d80d03e901_o.jpg" alt="FGCU VOLLEYBALL vs. STETSON"></img></div>		<div class="col-md-18 col-sm-17 col-xs-16">			<p class="text-caption dateauthortags">FGCU VOLLEYBALL vs. STETSON</p>			<p class="h3">Nov 01 | 6:00 pm - 8:00 pm</p>			<p class="text-caption"><span>Join the FGCU volleyball team as they take on Stetson, which will be a BLUE OUT in Alico Arena. It will be You</span></p>		</div>	</div>	</a></div><div class="eventlistitem">	<a href="/events/event/?690652094/fgcu-featured-events/fjestful-art-lecture-holly-hanessian">	<div class="container-flex row">		<div class="col-md-5 col-sm-6 col-xs-7"><img src="https://live.staticflickr.com/65535/52262765461_08c4b7135c_o.jpg" alt="FJESTFUL ART LECTURE: HOLLY HANESSIAN"></img></div>		<div class="col-md-18 col-sm-17 col-xs-16">			<p class="text-caption dateauthortags">FJESTFUL ART LECTURE: HOLLY HANESSIAN</p>			<p class="h3">Nov 03 | 6:00 pm - 8:00 pm</p>			<p class="text-caption"><span>Community engagement is at the heart of Holly Hanessian&#8217;s creative practice. Her project-based artworks </span></p>		</div>	</div>	</a></div></div><div class="col-sm-12"><div class="eventlistitem">	<a href="/events/event/?683888711/fgcu-featured-events/fgcu-volleyball-vs-eku">	<div class="container-flex row">		<div class="col-md-5 col-sm-6 col-xs-7"><img src="https://live.staticflickr.com/65535/52289997718_1c18cf0789_o.jpg" alt="FGCU VOLLEYBALL vs. EKU"></img></div>		<div class="col-md-18 col-sm-17 col-xs-16">			<p class="text-caption dateauthortags">FGCU VOLLEYBALL vs. EKU</p>			<p class="h3">Nov 04 | 7:00 pm - 9:00 pm</p>			<p class="text-caption"><span>Join the FGCU volleyball team as they take on Eastern Kentucky, which will be a BLUE OUT in Alico Arena. It wi</span></p>		</div>	</div>	</a></div><div class="eventlistitem">	<a href="/events/event/?683888712/fgcu-featured-events/fgcu-volleyball-vs-bellarmine">	<div class="container-flex row">		<div class="col-md-5 col-sm-6 col-xs-7"><img src="https://live.staticflickr.com/65535/52289997703_d80d03e901_o.jpg" alt="FGCU VOLLEYBALL vs. BELLARMINE"></img></div>		<div class="col-md-18 col-sm-17 col-xs-16">			<p class="text-caption dateauthortags">FGCU VOLLEYBALL vs. BELLARMINE</p>			<p class="h3">Nov 05 | 7:00 pm - 9:00 pm</p>			<p class="text-caption"><span>Join the FGCU volleyball team as they take on Bellarmine, which will be a GREEN OUT in Alico Arena. It will be</span></p>		</div>	</div>	</a></div><div class="eventlistitem">	<a href="/events/event/?676527420/fgcu-featured-events/jazz-ensembles">	<div class="container-flex row">		<div class="col-md-5 col-sm-6 col-xs-7"><img src="https://live.staticflickr.com/65535/52262777288_3261146c0d_o.jpg" alt="JAZZ ENSEMBLES"></img></div>		<div class="col-md-18 col-sm-17 col-xs-16">			<p class="text-caption dateauthortags">JAZZ ENSEMBLES</p>			<p class="h3">Nov 06 | 3:00 pm - 4:30 pm</p>			<p class="text-caption"><span>This concert takes place at an off campus location, Cape Coral High School. All are welcome to come out to enj</span></p>		</div>	</div>	</a></div></div></div>
+            </section>
+            
+            <section class="text-container ">
+               <div class="container-flex">
+                  
+                  <p xmlns:ouc="http://omniupdate.com/XSL/Variables" class="h3"><br>Learning comes to life at FGCU</p>
+                  </div>
+            </section>
+            
+            <div class="container-flex row-alt  ">
+               <div class="col-sm ">
+                  
+                  <section class="video-box row">
+                     <div class="col-md-24">
+                        
+                        <div class="featured-video-wrapper ">
+                           <div class="featured-video">
+                              <div class="embed-container"><a class="video-thumbnail" href="https://www.youtube.com/embed/hEBNLyrTfII?rel=0&amp;controls=1&amp;showinfo=0&amp;autoplay=1&amp;auto_play=true"><img src="https://img.youtube.com/vi/hEBNLyrTfII/maxresdefault.jpg" alt="School of Resort and Hospitality ManagementVideo Thumbnail" width="319" height="279"><div class="play-button" aria-label="Play Video" title="Play Video"></div></a></div>
+                           </div>
+                        </div>
+                        
+                        <section class="videopanel overlay-texture green rock">
+                           <div class="container">
+                              <div class="container-flex row-alt">
+                                 <div class="col-sm">
+                                    
+                                    <p xmlns:ouc="http://omniupdate.com/XSL/Variables" class="h3">Check into career-shaping programs</p>
+                                    
+                                    <p xmlns:ouc="http://omniupdate.com/XSL/Variables">Being in a tourism hub gives our students a competitive edge in the industry. Take
+                                       advantage of our strong relationships with the area's finest resorts, hotels and other
+                                       industry-related contacts.</p>
+                                    </div>
+                              </div>
+                           </div>
+                        </section>
+                     </div>
+                  </section>
+                  </div>
+               <div class="col-sm ">
+                  
+                  <section class="video-box row">
+                     <div class="col-md-24">
+                        
+                        <div class="featured-video-wrapper ">
+                           <div class="featured-video">
+                              <div class="embed-container"><a class="video-thumbnail" href="https://www.youtube.com/embed/i6r5fbJ5hwM?rel=0&amp;controls=1&amp;showinfo=0&amp;autoplay=1&amp;auto_play=true"><img src="https://img.youtube.com/vi/i6r5fbJ5hwM/maxresdefault.jpg" alt="College of EngineeringVideo Thumbnail" width="319" height="279"><div class="play-button" aria-label="Play Video" title="Play Video"></div></a></div>
+                           </div>
+                        </div>
+                        
+                        <section class="videopanel overlay-texture blue rock">
+                           <div class="container">
+                              <div class="container-flex row-alt">
+                                 <div class="col-sm">
+                                    
+                                    <p xmlns:ouc="http://omniupdate.com/XSL/Variables" class="h3">Explore the College of Engineering</p>
+                                    
+                                    <p xmlns:ouc="http://omniupdate.com/XSL/Variables">We aren't simply committed to producing graduates with superior technical and professional
+                                       skills. We believe in a more personal approach, with smaller class sizes.</p>
+                                    </div>
+                              </div>
+                           </div>
+                        </section>
+                     </div>
+                  </section>
+                  </div>
+            </div>
+            
+            <p xmlns:ouc="http://omniupdate.com/XSL/Variables">&nbsp;</p>
+            
+            <div class="container-flex">
+               <section class="text-container blue gradientpromo">
+                  <div class="container-flex">
+                     <div class="container-flex row-alt">
+                        <div class="col-sm">
+                           <p class="h5">Stay Healthy on Campus</p>
+                           <p class="text-description">Learn how you can prevent the spread of COVID on campus</p>
+                           <p class=""><a class="button solid-outline white" href="https://youtu.be/HnxmEvxe1XQ">Learn More</a></p>
+                        </div>
+                        <div class="col-sm">
+                           <p class="h5">FGCU HEERF Grants</p>
+                           <p class="text-description">Reporting to U.S. Dept. of Education</p>
+                           <p class=""><a class="button solid-outline white" href="/caresact/">View Reports</a></p>
+                        </div>
+                        <div class="col-sm">
+                           <p class="h5">FAFSA 2022-2023</p>
+                           <p class="text-description">Available Now | Don't miss your opportunity to apply</p>
+                           <p class=""><a class="button solid-outline white" href="https://studentaid.gov/h/apply-for-aid/fafsa">Apply Now</a></p>
+                        </div>
+                     </div>
+                  </div>
+               </section>
+            </div>
+            
+            <p xmlns:ouc="http://omniupdate.com/XSL/Variables">&nbsp;</p>
+            
+            <section class="text-container ">
+               <div class="container-flex">
+                  
+                  <p xmlns:ouc="http://omniupdate.com/XSL/Variables" class="h3">Social Spotlight</p>
+                  </div>
+            </section>
+            
+            <section class="social-feed">
+               <div class="container">
+                  <div class="scrollable-wrapper">
+                     <div class="scrollable"><button class="scroll-right">scroll right</button><button class="scroll-left">scroll left</button><ul class="social-feed-wrapper medium-slider"><li>	<div class="inner-wrapper">		<div class="icon twitter"><span class="icon-icon-twitter"></span></div>		<a href="https://twitter.com/fgcu/status/1586772449710022656"><div class="social-image"><img class="social-thumbnail-image" src="https://pbs.twimg.com/media/FgVZHwRWYAEoePH.png:small" alt="Social Media Image" /></div></a>		<div class="social-info">			<div class="col-xs-4"><a aria-label="fgcu Twitter "  href="https://twitter.com/fgcu"><img class="social-profile" src="https://pbs.twimg.com/profile_images/966008268425498624/5lWmGYmf_normal.jpg" alt="FGCU" /></a></div>			<div class="col-xs-20">				<div><a aria-label="fgcu Twitter " href="https://twitter.com/fgcu">FGCU</a></div>				<div class="social-username"><a aria-label="fgcu Twitter " href="https://twitter.com/fgcu">@fgcu</a></div>			</div>			<div class="social-text">You can check out your very own skeleton at the circulation desk for all your skeleton study needs! 💀😝 <a href="https://twitter.com/hashtag/FGCU">#FGCU</a> <a href="https://twitter.com/hashtag/FGCUlibrary">#FGCUlibrary</a> <a href="https://t.co/kjDhQqk9Xn">https://t.co/kjDhQqk9Xn</a></div>			<div class="social-date">Oct 30</div>			<div class="social-stats"><a aria-label="0 Likes" href="https://twitter.com/intent/like?tweet_id=1586772449710022656"><span class="icon-heart" title="Likes" ></span>0</a><a aria-label="0 Retweets" href="https://twitter.com/fgcu/status/1586772449710022656"><span class="icon-retweet" title="Retweets" ></span>0</a></div>		</div>	</div></li><li>	<div class="inner-wrapper">		<div class="icon twitter"><span class="icon-icon-twitter"></span></div>		<a href="https://twitter.com/fgcu/status/1586712088004775936"><div class="social-image"><img class="social-thumbnail-image" src="https://pbs.twimg.com/media/FgUiN6XXgAAXtcR.png:small" alt="Social Media Image" /></div></a>		<div class="social-info">			<div class="col-xs-4"><a aria-label="fgcu Twitter "  href="https://twitter.com/fgcu"><img class="social-profile" src="https://pbs.twimg.com/profile_images/966008268425498624/5lWmGYmf_normal.jpg" alt="FGCU" /></a></div>			<div class="col-xs-20">				<div><a aria-label="fgcu Twitter " href="https://twitter.com/fgcu">FGCU</a></div>				<div class="social-username"><a aria-label="fgcu Twitter " href="https://twitter.com/fgcu">@fgcu</a></div>			</div>			<div class="social-text"><a href="https://twitter.com/hashtag/FGCU">#FGCU</a> construction management students learned about hoisting and rigging from Lab Coordinator Andy Hughes in their construction mechanics class! <a href="https://twitter.com/hashtag/constructionmanagement">#constructionmanagement</a> <a href="https://t.co/YqDpsdUkuE">https://t.co/YqDpsdUkuE</a></div>			<div class="social-date">Oct 30</div>			<div class="social-stats"><a aria-label="6 Likes" href="https://twitter.com/intent/like?tweet_id=1586712088004775936"><span class="icon-heart" title="Likes" ></span>6</a><a aria-label="1 Retweets" href="https://twitter.com/fgcu/status/1586712088004775936"><span class="icon-retweet" title="Retweets" ></span>1</a></div>		</div>	</div></li><li>	<div class="inner-wrapper">		<div class="icon twitter"><span class="icon-icon-twitter"></span></div>		<a href="https://twitter.com/fgcu/status/1586666740897009665"><div class="social-image"><img class="social-thumbnail-image" src="https://pbs.twimg.com/media/FgT4_WmX0AAgC_a.jpg:small" alt="Social Media Image" /></div></a>		<div class="social-info">			<div class="col-xs-4"><a aria-label="fgcu Twitter "  href="https://twitter.com/fgcu"><img class="social-profile" src="https://pbs.twimg.com/profile_images/966008268425498624/5lWmGYmf_normal.jpg" alt="FGCU" /></a></div>			<div class="col-xs-20">				<div><a aria-label="fgcu Twitter " href="https://twitter.com/fgcu">FGCU</a></div>				<div class="social-username"><a aria-label="fgcu Twitter " href="https://twitter.com/fgcu">@fgcu</a></div>			</div>			<div class="social-text">Rise and shine, <a href="https://twitter.com/hashtag/Eagles">#Eagles</a>! ☀️ <a href="https://twitter.com/hashtag/FGCUsunrise">#FGCUsunrise</a> <a href="https://t.co/zCjikJOj2R">https://t.co/zCjikJOj2R</a></div>			<div class="social-date">Oct 30</div>			<div class="social-stats"><a aria-label="17 Likes" href="https://twitter.com/intent/like?tweet_id=1586666740897009665"><span class="icon-heart" title="Likes" ></span>17</a><a aria-label="0 Retweets" href="https://twitter.com/fgcu/status/1586666740897009665"><span class="icon-retweet" title="Retweets" ></span>0</a></div>		</div>	</div></li></ul>
+                     </div>
+                  </div>
+               </div>
+            </section>
+            
+            <p xmlns:ouc="http://omniupdate.com/XSL/Variables">&nbsp;</p>
+            <section class="experience-fgcu" style="background-image: url(https://fgcucdn.fgcu.edu/_resources/images/prefooter-temp.jpg)">
+   <div class="tablet-banner" style="background-image: url(/_resources/images/prefooter-temp-tablet.jpg)">
+      <div class="mobile-banner" style="background-image: url(/_resources/images/prefooter-temp-mobile.jpg)">
+         <div class="container">
+            <h2>Experience FGCU</h2>
+            <div class="cta-links"><a title="Apply to FGCU" href="/admissionsandaid" class="button red solid">Apply</a><a title="Visit FGCU" href="/admissionsandaid/visitus/" class="button red solid">Visit Us</a><a href="/campusmap/" class="button red solid">Campus Map</a><a title="Contact Us" href="/about/contactus" class="button red solid">Contact Us</a></div>
+         </div>
+      </div>
+   </div>
+</section></article>
+      </main>
+      <fgcufooter id="colophon" role="contentinfo">
+   <div class="upper-footer">
+      <div class="column column-1">
+         <div class="left"><a href="/" class="footer-logo"><img xmlns:ouc="http://omniupdate.com/XSL/Variables" src="/_resources/images/logo-horizontal-white.svg" alt="FGCU Logo"></a><address><span class="icon-location"></span><a aria-label="View Map" title="View Map" href="https://goo.gl/maps/J9tByRkQ47ys683h7" target="_blank" rel="noopener">10501 FGCU Blvd. S.<br xmlns:ouc="http://omniupdate.com/XSL/Variables">Fort Myers, FL 33965</a></address>
+            <div class="phone-numbers">
+               <div><span class="icon-phone"></span><a xmlns:ouc="http://omniupdate.com/XSL/Variables" class="tel" href="tel:+12395901000">239-590-1000</a></div>
+               <div><span class="icon-phone"></span><a xmlns:ouc="http://omniupdate.com/XSL/Variables" class="toll-free" href="tel:+18005903428">Toll Free 800-590-3428</a></div>
+            </div><span class="icon-mail-close"></span><a aria-label="Contact Us" class="contact" title="Contact Us" href="/about/contactus">Contact Us</a><div class="footer-social-media">
+               <ul>
+                  <li><a href="https://fgcu360.com" class="social-icon youtube"><span class="icon-fgcu360-stacked"></span><span class="title">FGCU 360</span></a></li>
+                  <li><a href="https://www.facebook.com/FloridaGulfCoastUniversity" class="social-icon facebook"><span class="icon-icon-facebook"></span><span class="title">Facebook</span></a></li>
+                  <li><a href="https://instagram.com/fgcu" class="social-icon instagram"><span class="icon-icon-instagram"></span><span class="title">Instagram</span></a></li>
+                  <li><a href="https://twitter.com/fgcu" class="social-icon twitter"><span class="icon-icon-twitter"></span><span class="title">Twitter</span></a></li>
+                  <li><a href="https://www.youtube.com/user/fgcu" class="social-icon youtube"><span class="icon-icon-youtube"></span><span class="title">Youtube</span></a></li>
+                  <li><a href="https://www.linkedin.com/school/florida-gulf-coast-university" class="social-icon linkedin"><span class="icon-icon-linkedin"></span><span class="title">LinkedIn</span></a></li>
+               </ul>
+            </div>
+         </div>
+      </div>
+      <div class="">
+         <div class="column column-2">
+            <div class="title">Colleges &amp; Schools</div>
+            <ul xmlns:ouc="http://omniupdate.com/XSL/Variables">
+               <li><a aria-label="College of Arts &amp; Sciences" title="College of Arts &amp; Sciences" href="/cas/">College of Arts &amp; Sciences</a></li>
+               <li><a aria-label="College of Education" title="College of Education" href="/coe/">College of Education</a></li>
+               <li><a aria-label="Honors College" title="Honors College" href="/honors/">Honors College</a></li>
+               <li><a aria-label="Lutgert College of Business" title="Lutgert College of Business" href="/cob/">Lutgert College of Business</a></li>
+               <li><a aria-label="Marieb College of Health &amp; Human Services" title="Marieb College of Health &amp; Human Services" href="/mariebcollege/">Marieb College of Health &amp; Human Services</a></li>
+               <li><a aria-label="U.A. Whitaker College of Engineering" title="U.A. Whitaker College of Engineering" href="/eng/">U.A. Whitaker College of Engineering</a></li>
+               <li><a aria-label="Bower School of Music &amp; the Arts" title="Bower School of Music &amp; the Arts" href="/cas/bsma/">Bower School of Music &amp; the Arts</a></li>
+               <li><a aria-label="Daveler &amp; Kauanui School of Entrepreneurship" title="Daveler &amp; Kauanui School of Entrepreneurship" href="/school-of-entrepreneurship/">Daveler &amp; Kauanui School of Entrepreneurship</a></li>
+               <li><a aria-label="School of Nursing" title="School of Nursing" href="/mariebcollege/nursing/">School of Nursing</a></li>
+               <li><a aria-label="School of Resort &amp; Hospitality Management" title="School of Resort &amp; Hospitality Management" href="/cob/srhm/">School of Resort &amp; Hospitality Management</a></li>
+               <li><a aria-label="The Water School" title="The Water School" href="/thewaterschool/">The Water School</a></li>
+            </ul>
+         </div>
+         <div class="column column-3">
+            <div class="title">Institution</div>
+            <ul xmlns:ouc="http://omniupdate.com/XSL/Variables">
+               <li><a aria-label="About FGCU" title="About FGCU" href="/about/">About FGCU</a></li>
+               <li><a aria-label="Accreditation" title="Accreditation" href="/about/accreditation">Accreditation</a></li>
+               <li><a aria-label="Consumer Information" title="Consumer Information" href="/admissionsandaid/financialaid/undergraduate/formsandresources/consumerinformation">Consumer Information</a></li>
+               <li><a aria-label="FGCU EEO/EO/AA M/VET/Diversity/Title IX" title="FGCU EEO/EO/AA M/VET/Diversity/Title IX" href="/equity/">EEO/EO/AA M/VET/Diversity/Title IX</a></li>
+               <li><a aria-label="FGCU Hotline" title="FGCU Hotline" href="https://secure.ethicspoint.com/domain/media/en/gui/48024/index.html" target="_blank" rel="noopener">FGCU Hotline</a></li>
+               <li><a href="/campusmap/">Map and Directions</a></li>
+               <li><a aria-label="https://www.flbog.edu/myfloridafuture/" title="https://www.flbog.edu/myfloridafuture/" href="https://www.flbog.edu/myfloridafuture/" target="_blank" rel="noopener">MyFloridaFuture Program</a></li>
+               <li><a aria-label="State Authorization" title="State Authorization" href="/stateauthorization/">State Authorization</a></li>
+               <li><a aria-label="Virtual Tour" title="Virtual Tour" href="/virtualtour/">Virtual Tour</a></li>
+            </ul>
+         </div>
+      </div>
+      <div class="column column-4">
+         <div class="title">Community</div>
+         <ul xmlns:ouc="http://omniupdate.com/XSL/Variables">
+            <li><a aria-label="Alumni Association" title="Alumni Association" href="/alumni/">Alumni</a></li>
+            <li><a aria-label="Athletics" title="Athletics" href="http://fgcuathletics.com/index.aspx">Athletics</a></li>
+            <li><a aria-label="Give to FGCU" title="Give to FGCU" href="/advancement/waystogive/givenow">Give to FGCU</a></li>
+            <li><a aria-label="Watch/Listen to WGCU" title="Watch/Listen to WGCU" href="https://www.wgcu.org/">Watch/Listen to WGCU</a></li>
+            <li><a aria-label="Work at FGCU" title="Work at FGCU" href="/hr/jobs-at-fgcu" target="_blank">Work at FGCU</a></li>
+         </ul>
+      </div>
+      <div class="column column-5">
+         <div class="title">Shortcuts</div>
+         <ul xmlns:ouc="http://omniupdate.com/XSL/Variables">
+            <li><a aria-label="A - Z Index" title="A - Z Index" href="/azindex/">A - Z Index</a></li>
+            <li><a aria-label="Admissions" title="Admissions" href="/admissionsandaid/">Admissions</a></li>
+            <li><a aria-label="FGCU Bookstore" title="FGCU Bookstore" href="https://fgcu.bncollege.com/shop/florida-gulf-coast-university/home" target="_blank" rel="noopener">Bookstore</a></li>
+            <li><a href="/calendar/">Calendar</a></li>
+            <li><a href="/canvas/" class="notranslate">CANVAS</a></li>
+            <li><a aria-label="Directory" title="Directory" href="/directory/">Directory</a></li>
+            <li><a href="/email">Email</a></li>
+            <li><a aria-label="GULFLINE" title="GULFLINE" href="/gulfline/">GULFLINE</a></li>
+            <li><a aria-label="Library Services" title="Library Services" href="http://library.fgcu.edu">Library</a></li>
+         </ul>
+      </div>
+   </div>
+   <div class="lower-footer">
+      <div class="row">
+         <div class="col lower-footer-left">
+            <ul>
+               <li><span id="directedit">©</span><span> Florida Gulf Coast University</span></li>
+               <li><a xmlns:ouc="http://omniupdate.com/XSL/Variables" href="/generalcounsel/resources.aspx">Privacy Statement</a></li>
+               <li><a xmlns:ouc="http://omniupdate.com/XSL/Variables" href="https://fgcu.formstack.com/forms/webmaster" target="_blank">Webmaster</a></li>
+               <li><a xmlns:ouc="http://omniupdate.com/XSL/Variables" href="/generalcounsel/resources.aspx">Accessibility</a></li>
+            </ul>
+         </div>
+         <div class="col lower-footer-right">
+            <div class="language-container notranslate"><button title="language" aria-label="language-toggle" aria-expanded="false" class="main-language-toggle"><span class="icon-online"></span><div class="nav-arrow"><span class="icon-left-dir"></span></div></button><div class="lang-dropdown " x-placement="bottom-start" style="">
+                  <ul>
+                     <li class="dropdown-item">Afrikaans</li>
+                     <li class="dropdown-item">Albanian</li>
+                     <li class="dropdown-item">Amharic</li>
+                     <li class="dropdown-item">Arabic</li>
+                     <li class="dropdown-item">Armenian</li>
+                     <li class="dropdown-item">Azerbaijani</li>
+                     <li class="dropdown-item">Basque</li>
+                     <li class="dropdown-item">Belarusian</li>
+                     <li class="dropdown-item">Bengali</li>
+                     <li class="dropdown-item">Bosnian</li>
+                     <li class="dropdown-item">Bulgarian</li>
+                     <li class="dropdown-item">Catalan</li>
+                     <li class="dropdown-item">Cebuano</li>
+                     <li class="dropdown-item">Chichewa</li>
+                     <li class="dropdown-item">Chinese (Simplified)</li>
+                     <li class="dropdown-item">Chinese (Traditional)</li>
+                     <li class="dropdown-item">Corsican</li>
+                     <li class="dropdown-item">Croatian</li>
+                     <li class="dropdown-item">Czech</li>
+                     <li class="dropdown-item">Danish</li>
+                     <li class="dropdown-item">Dutch</li>
+                     <li class="dropdown-item">Esperanto</li>
+                     <li class="dropdown-item">Estonian</li>
+                     <li class="dropdown-item">Filipino</li>
+                     <li class="dropdown-item">Finnish</li>
+                     <li class="dropdown-item">French</li>
+                     <li class="dropdown-item">Frisian</li>
+                     <li class="dropdown-item">Galician</li>
+                     <li class="dropdown-item">Georgian</li>
+                     <li class="dropdown-item">German</li>
+                     <li class="dropdown-item">Greek</li>
+                     <li class="dropdown-item">Gujarati</li>
+                     <li class="dropdown-item">Haitian Creole</li>
+                     <li class="dropdown-item">Hausa</li>
+                     <li class="dropdown-item">Hawaiian</li>
+                     <li class="dropdown-item">Hebrew</li>
+                     <li class="dropdown-item">Hindi</li>
+                     <li class="dropdown-item">Hmong</li>
+                     <li class="dropdown-item">Hungarian</li>
+                     <li class="dropdown-item">Icelandic</li>
+                     <li class="dropdown-item">Igbo</li>
+                     <li class="dropdown-item">Indonesian</li>
+                     <li class="dropdown-item">Irish</li>
+                     <li class="dropdown-item">Italian</li>
+                     <li class="dropdown-item">Japanese</li>
+                     <li class="dropdown-item">Javanese</li>
+                     <li class="dropdown-item">Kannada</li>
+                     <li class="dropdown-item">Kazakh</li>
+                     <li class="dropdown-item">Khmer</li>
+                     <li class="dropdown-item">Kinyarwanda</li>
+                     <li class="dropdown-item">Korean</li>
+                     <li class="dropdown-item">Kurdish (Kurmanji)</li>
+                     <li class="dropdown-item">Kyrgyz</li>
+                     <li class="dropdown-item">Lao</li>
+                     <li class="dropdown-item">Latin</li>
+                     <li class="dropdown-item">Latvian</li>
+                     <li class="dropdown-item">Lithuanian</li>
+                     <li class="dropdown-item">Luxembourgish</li>
+                     <li class="dropdown-item">Macedonian</li>
+                     <li class="dropdown-item">Malagasy</li>
+                     <li class="dropdown-item">Malay</li>
+                     <li class="dropdown-item">Malayalam</li>
+                     <li class="dropdown-item">Maltese</li>
+                     <li class="dropdown-item">Maori</li>
+                     <li class="dropdown-item">Marathi</li>
+                     <li class="dropdown-item">Mongolian</li>
+                     <li class="dropdown-item">Myanmar (Burmese)</li>
+                     <li class="dropdown-item">Nepali</li>
+                     <li class="dropdown-item">Norwegian</li>
+                     <li class="dropdown-item">Odia (Oriya)</li>
+                     <li class="dropdown-item">Pashto</li>
+                     <li class="dropdown-item">Persian</li>
+                     <li class="dropdown-item">Polish</li>
+                     <li class="dropdown-item">Portuguese</li>
+                     <li class="dropdown-item">Punjabi</li>
+                     <li class="dropdown-item">Romanian</li>
+                     <li class="dropdown-item">Russian</li>
+                     <li class="dropdown-item">Samoan</li>
+                     <li class="dropdown-item">Scots Gaelic</li>
+                     <li class="dropdown-item">Serbian</li>
+                     <li class="dropdown-item">Sesotho</li>
+                     <li class="dropdown-item">Shona</li>
+                     <li class="dropdown-item">Sindhi</li>
+                     <li class="dropdown-item">Sinhala</li>
+                     <li class="dropdown-item">Slovak</li>
+                     <li class="dropdown-item">Slovenian</li>
+                     <li class="dropdown-item">Somali</li>
+                     <li class="dropdown-item">Spanish</li>
+                     <li class="dropdown-item">Sundanese</li>
+                     <li class="dropdown-item">Swahili</li>
+                     <li class="dropdown-item">Swedish</li>
+                     <li class="dropdown-item">Tajik</li>
+                     <li class="dropdown-item">Tamil</li>
+                     <li class="dropdown-item">Tatar</li>
+                     <li class="dropdown-item">Telugu</li>
+                     <li class="dropdown-item">Thai</li>
+                     <li class="dropdown-item">Turkish</li>
+                     <li class="dropdown-item">Turkmen</li>
+                     <li class="dropdown-item">Ukrainian</li>
+                     <li class="dropdown-item">Urdu</li>
+                     <li class="dropdown-item">Uyghur</li>
+                     <li class="dropdown-item">Uzbek</li>
+                     <li class="dropdown-item">Vietnamese</li>
+                     <li class="dropdown-item">Welsh</li>
+                     <li class="dropdown-item">Xhosa</li>
+                     <li class="dropdown-item">Yiddish</li>
+                     <li class="dropdown-item">Yoruba</li>
+                     <li class="dropdown-item">Zulu</li>
+                  </ul>
+               </div>
+            </div>
+         </div>
+      </div>
+   </div>
+</fgcufooter><script type="text/javascript">
+			var tag = document.createElement('script');
+			tag.src = "https://www.youtube.com/iframe_api";
+			var firstScriptTag = document.getElementsByTagName('script')[0];
+			firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+		</script><script>
+			$( document ).ready(function() {
+				$("#ou-autoplay-video").click();
+			});
+		</script><script type="text/javascript">
+		var _userway_config = {
+		account: '99Cm99PmSL'
+		};
+		</script><script type="text/javascript" src="https://cdn.userway.org/widget.js"></script><style>
+		.vm-button.vm-style {
+    		background-color: rgb(0, 81, 178) !important;
+		}
+		@media (min-width: 576px){
+			.vm-button {
+				right: 1rem;
+				left: auto;
+			}
+		}
+		.vm-button {
+			background-color: #2a9cf1;
+			font-family: avenir,helvetica neue,Helvetica,Arial,sans-serif;
+			cursor: pointer;
+			border: none;
+			border-radius: 2%;
+			box-shadow: 1px 0 9px rgba(0,0,0,.35);
+			color: #fff;
+			display: block;
+			position: fixed;
+			bottom: 1rem;
+			padding: 12px 48px;
+			font-size: 16px;
+			margin: 0 auto 0 -105px;
+			/*left: 50%;*/
+			z-index: 99999;
+		}
+		.vm-button {
+			right: 60px !important;
+			bottom: 10px !important;
+			display: none;
+		}
+		</style><button class="vd-button-alt" data-mobi-id="fgcu-400515559d5" title="Schedule a Call with Admissions" aria-label="Schedule a Call with Admissions" style="padding: 1px; background-color: rgba(0, 0, 0, 0) !important;    color: #004785; margin-bottom: 0px; font-size: 38px; box-shadow: none !important; left: auto; position: fixed; z-index: 99999; right: 60px!important; bottom: 10px!important; display: none;"><img src="https://fgcucdn.fgcu.edu/_resources/images/tourcall.png" alt="Schedule a Call with Admissions" width="45px" height="100%"></button><button class="vm-button vm-style" data-mobi-subdomain="fgcu" data-mobi-id="fgcu-400515559d5" title="Schedule a Call with Admissions" aria-label="Schedule a Call with Admissions">Schedule a Call with Admissions</button>
+			<script>
+			function visitdaysFGCULoad(){
+return;//TEMP DISABLED				
+			//Limit only to certain paths
+ 			var patternPaths = /^(\/about|\/academics|\/admissionsandaid|\/thefgcueffect)/i;
+ 			var resultPaths = patternPaths.test(window.location.pathname);
+			if(window.location.pathname == "/admissionsandaid/financialaid/") return;//add exception for finacial aid due to Ocelot(avoid both running both at the same time)
+ 			if (resultPaths === false) return;
+			document.querySelector('.vm-button').style.display = 'inherit';//this is the manual button not the auto button(if one is used in above code)
+				
+				var intervalID = setInterval(visitdaysVMButton, 500);
+				function visitdaysVMButton(){
+					if(document.querySelector('.vm-button') !== null){
+						//Schedule Campus Tour
+						document.querySelector('.vm-button').innerHTML = 'Schedule a Call with Admissions'; 
+						document.querySelector('.vm-button').setAttribute('title',  'Schedule a Call with Admissions'); 
+						document.querySelector('.vm-button').setAttribute('aria-label',  'Schedule a Call with Admissions'); 
+						clearInterval(intervalID);
+						setTimeout(function(){ 
+							document.querySelector('.vd-button-alt').style.display = 'inherit';
+							document.querySelector('.vm-button').style.display = 'none';
+							
+			/*****
+			//width="65px"
+							document.querySelector('.vm-button').innerHTML = '<img src="https://fgcucdn.fgcu.edu/_resources/images/tourcall.png" width="45px" height="100%" alt="Campus Tour Bus"  /> '; //style="filter: hue-rotate(-116deg);"
+							//document.querySelector('.vm-button').className = document.querySelector('.vm-button').className + ' icon-tourbus'; 
+							document.querySelector('.vm-button').setAttribute("style", "padding: 1px; background-color: rgba(0, 0, 0, 0) !important;    color: #004785; margin-bottom: 0px; font-size: 38px; box-shadow: none !important; left: auto; position: fixed; z-index: 99999; right: 60px!important; bottom: 10px!important;");
+			*****/
+			
+						},5000); 
+					}
+				}
+			}
+			</script>
+			<script async="true" src="https://mobi.visitdays.com/assets/snippet/assets/main.bundle.js" data-mobi-id="fgcu-400515559d5" data-mobi-hide-default-button="true"  onload="visitdaysFGCULoad();" ></script> 
+			<script type="text/javascript"> 
+			function ocelotLoad(){
+				//if(window.location.hostname != "webdev.fgcu.edu") return;//TEMP: Webdev only
+			
+			
+				//Limit only to certain paths
+				var opatternPaths = /^(\/admissionsandaid\/financialaid|\/enrollmentservices|\/bursar)/i;
+			
+				var oresultPaths = opatternPaths.test(window.location.pathname);
+				if (oresultPaths === false) return;
+				var script = document.createElement('script');
+				script.onload = function () {
+					//do stuff with the script
+				};
+				script.src = "https://ai.ocelotbot.com/embed/standard/57db87e6-d605-4582-b143-b1649b25991e?ha=right&hv=16px&va=bottom&vv=16px&ts=0&bs=calloutBubble&av=0";
+				document.head.appendChild(script); //or something of the likes
+			}
+			ocelotLoad();
+		</script><div id="google_translate_element" style="display: none;"></div><script type="text/javascript"> 
+			function googleTranslateElementInit() { 
+				/*new google.translate.TranslateElement(
+					{pageLanguage: 'en'}, 
+					'google_translate_element'
+				); */
+			 
+			 	new google.translate.TranslateElement(
+					{pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, autoDisplay: false}, 
+					'google_translate_element'
+				); 
+			 
+			} 
+		</script><script type="text/javascript" src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script><script>(function(d,u,ac){var s=d.createElement('script');s.type='text/javascript';s.src='https://a.omappapi.com/app/js/api.min.js';s.async=true;s.dataset.user=u;s.dataset.account=ac;d.getElementsByTagName('head')[0].appendChild(s);})(document,131894,144386);
+		</script><script src="https://fgcucdn.fgcu.edu/_resources/ldp/galleries/bx-slider/jquery.bxslider.min.js"></script><script type="text/javascript">
+					$(document).ready(function(){
+						$('.bx-slider').bxSlider({
+							mode: 'fade',
+							captions: true, auto: true
+						});
+					});	
+				</script>
+      
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NLN2R7T"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+
+<div id="hidden" style="display:none;"><a id="de" href="https://a.cms.omniupdate.com/11/?skin=oucampus&amp;account=fgcu&amp;site=www&amp;action=de&amp;path=/index.pcf">©</a></div>
+      	
+      	
+      	
+      	
+      	</body>
+</html>
